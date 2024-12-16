@@ -2,7 +2,7 @@
   {
     "id": 1,
     "passenger": {
-      "firstName": "UpdatedName",
+      "firstName": "hahahaha",
       "lastName": "UpdatedLastName",
       "gender": "Male",
       "age": 31,
@@ -42,8 +42,7 @@
       "name": "Kugluktuk Airport",
       "countryCode": "CA",
       "countryName": "Canada",
-      "continent": "NAM",
-      "arrivalCode": "YCO"
+      "continent": "NAM"
     }
   },
   {
@@ -66,8 +65,7 @@
       "name": "Grenoble-Isère Airport",
       "countryCode": "FR",
       "countryName": "France",
-      "continent": "EU",
-      "arrivalCode": "GNB"
+      "continent": "EU"
     }
   },
   {
@@ -90,8 +88,7 @@
       "name": "Ottawa / Gatineau Airport",
       "countryCode": "CA",
       "countryName": "Canada",
-      "continent": "NAM",
-      "arrivalCode": "YND"
+      "continent": "NAM"
     }
   },
   {
@@ -114,8 +111,7 @@
       "name": "Gillespie Field",
       "countryCode": "US",
       "countryName": "United States",
-      "continent": "NAM",
-      "arrivalCode": "SEE"
+      "continent": "NAM"
     }
   },
   {
@@ -138,8 +134,7 @@
       "name": "Coronel Horácio de Mattos Airport",
       "countryCode": "BR",
       "countryName": "Brazil",
-      "continent": "SAM",
-      "arrivalCode": "LEC"
+      "continent": "SAM"
     }
   },
   {
@@ -162,8 +157,7 @@
       "name": "Duxford Aerodrome",
       "countryCode": "GB",
       "countryName": "United Kingdom",
-      "continent": "EU",
-      "arrivalCode": "QFO"
+      "continent": "EU"
     }
   },
   {
@@ -186,8 +180,7 @@
       "name": "Maestro Wilson Fonseca Airport",
       "countryCode": "BR",
       "countryName": "Brazil",
-      "continent": "SAM",
-      "arrivalCode": "STM"
+      "continent": "SAM"
     }
   },
   {
@@ -210,8 +203,7 @@
       "name": "Venice Marco Polo Airport",
       "countryCode": "IT",
       "countryName": "Italy",
-      "continent": "EU",
-      "arrivalCode": "VCE"
+      "continent": "EU"
     }
   },
   {
@@ -234,8 +226,7 @@
       "name": "Vermilion Airport",
       "countryCode": "CA",
       "countryName": "Canada",
-      "continent": "NAM",
-      "arrivalCode": "YVG"
+      "continent": "NAM"
     }
   },
   {
@@ -258,8 +249,7 @@
       "name": "Nuevo Casas Grandes Airport",
       "countryCode": "MX",
       "countryName": "Mexico",
-      "continent": "NAM",
-      "arrivalCode": "NCG"
+      "continent": "NAM"
     }
   },
   {
@@ -282,8 +272,7 @@
       "name": "Ruben Cantu Airport",
       "countryCode": "PA",
       "countryName": "Panama",
-      "continent": "NAM",
-      "arrivalCode": "SYP"
+      "continent": "NAM"
     }
   },
   {
@@ -306,8 +295,7 @@
       "name": "Loralai Airport",
       "countryCode": "PK",
       "countryName": "Pakistan",
-      "continent": "AS",
-      "arrivalCode": "LRG"
+      "continent": "AS"
     }
   },
   {
@@ -330,8 +318,7 @@
       "name": "Cudal Airport",
       "countryCode": "AU",
       "countryName": "Australia",
-      "continent": "OC",
-      "arrivalCode": "CUG"
+      "continent": "OC"
     }
   },
   {
@@ -354,8 +341,7 @@
       "name": "Farmington Regional Airport",
       "countryCode": "US",
       "countryName": "United States",
-      "continent": "NAM",
-      "arrivalCode": "FAM"
+      "continent": "NAM"
     }
   },
   {
@@ -378,8 +364,7 @@
       "name": "Oudtshoorn Airport",
       "countryCode": "ZA",
       "countryName": "South Africa",
-      "continent": "AF",
-      "arrivalCode": "OUH"
+      "continent": "AF"
     }
   },
   {
@@ -402,8 +387,7 @@
       "name": "Zaraza Airport",
       "countryCode": "VE",
       "countryName": "Venezuela, Bolivarian Republic of",
-      "continent": "SAM",
-      "arrivalCode": "ZRZ"
+      "continent": "SAM"
     }
   },
   {
@@ -426,8 +410,7 @@
       "name": "Enshi Airport",
       "countryCode": "CN",
       "countryName": "China",
-      "continent": "AS",
-      "arrivalCode": "ENH"
+      "continent": "AS"
     }
   },
   {
@@ -450,8 +433,7 @@
       "name": "Thompson Airport",
       "countryCode": "CA",
       "countryName": "Canada",
-      "continent": "NAM",
-      "arrivalCode": "YTH"
+      "continent": "NAM"
     }
   },
   {
@@ -474,8 +456,7 @@
       "name": "Guilin Liangjiang International Airport",
       "countryCode": "CN",
       "countryName": "China",
-      "continent": "AS",
-      "arrivalCode": "KWL"
+      "continent": "AS"
     }
   },
   {
@@ -498,8 +479,7 @@
       "name": "Crested Butte Airpark",
       "countryCode": "US",
       "countryName": "United States",
-      "continent": "NAM",
-      "arrivalCode": "CSE"
+      "continent": "NAM"
     }
   },
   {
@@ -522,8 +502,7 @@
       "name": "St Augustin Airport",
       "countryCode": "CA",
       "countryName": "Canada",
-      "continent": "NAM",
-      "arrivalCode": "YIF"
+      "continent": "NAM"
     }
   },
   {
@@ -546,8 +525,7 @@
       "name": "Port Bergé Airport",
       "countryCode": "MG",
       "countryName": "Madagascar",
-      "continent": "AF",
-      "arrivalCode": "WPB"
+      "continent": "AF"
     }
   },
   {
@@ -570,8 +548,7 @@
       "name": "Hato Corozal Airport",
       "countryCode": "CO",
       "countryName": "Colombia",
-      "continent": "SAM",
-      "arrivalCode": "HTZ"
+      "continent": "SAM"
     }
   },
   {
@@ -594,8 +571,7 @@
       "name": "Elkhart Municipal Airport",
       "countryCode": "US",
       "countryName": "United States",
-      "continent": "NAM",
-      "arrivalCode": "EKI"
+      "continent": "NAM"
     }
   },
   {
@@ -618,8 +594,7 @@
       "name": "Timbedra Airport",
       "countryCode": "MR",
       "countryName": "Mauritania",
-      "continent": "AF",
-      "arrivalCode": "TMD"
+      "continent": "AF"
     }
   },
   {
@@ -642,8 +617,7 @@
       "name": "Bagan Airport",
       "countryCode": "MM",
       "countryName": "Myanmar",
-      "continent": "AS",
-      "arrivalCode": "NYU"
+      "continent": "AS"
     }
   },
   {
@@ -666,8 +640,7 @@
       "name": "Wiley Post Will Rogers Memorial Airport",
       "countryCode": "US",
       "countryName": "United States",
-      "continent": "NAM",
-      "arrivalCode": "BRW"
+      "continent": "NAM"
     }
   },
   {
@@ -690,8 +663,7 @@
       "name": "Gamboma Airport",
       "countryCode": "CG",
       "countryName": "Congo",
-      "continent": "AF",
-      "arrivalCode": "GMM"
+      "continent": "AF"
     }
   },
   {
@@ -714,8 +686,7 @@
       "name": "Kasaba Bay Airport",
       "countryCode": "ZM",
       "countryName": "Zambia",
-      "continent": "AF",
-      "arrivalCode": "ZKB"
+      "continent": "AF"
     }
   },
   {
@@ -738,8 +709,7 @@
       "name": "Faleolo International Airport",
       "countryCode": "WS",
       "countryName": "Samoa",
-      "continent": "OC",
-      "arrivalCode": "APW"
+      "continent": "OC"
     }
   },
   {
@@ -762,8 +732,7 @@
       "name": "Gorge Harbour Seaplane Base",
       "countryCode": "CA",
       "countryName": "Canada",
-      "continent": "NAM",
-      "arrivalCode": "YGE"
+      "continent": "NAM"
     }
   },
   {
@@ -786,8 +755,7 @@
       "name": "Nesson Airport",
       "countryCode": "NC",
       "countryName": "New Caledonia",
-      "continent": "OC",
-      "arrivalCode": "HLU"
+      "continent": "OC"
     }
   },
   {
@@ -810,8 +778,7 @@
       "name": "Malabo Airport",
       "countryCode": "GQ",
       "countryName": "Equatorial Guinea",
-      "continent": "AF",
-      "arrivalCode": "SSG"
+      "continent": "AF"
     }
   },
   {
@@ -834,8 +801,7 @@
       "name": "Zahn's Airport",
       "countryCode": "US",
       "countryName": "United States",
-      "continent": "NAM",
-      "arrivalCode": "AYZ"
+      "continent": "NAM"
     }
   },
   {
@@ -858,8 +824,7 @@
       "name": "Gora Airstrip",
       "countryCode": "PG",
       "countryName": "Papua New Guinea",
-      "continent": "OC",
-      "arrivalCode": "GOC"
+      "continent": "OC"
     }
   },
   {
@@ -882,8 +847,7 @@
       "name": "Campbell River Airport",
       "countryCode": "CA",
       "countryName": "Canada",
-      "continent": "NAM",
-      "arrivalCode": "YBL"
+      "continent": "NAM"
     }
   },
   {
@@ -906,8 +870,7 @@
       "name": "Moki Airport",
       "countryCode": "PG",
       "countryName": "Papua New Guinea",
-      "continent": "OC",
-      "arrivalCode": "MJJ"
+      "continent": "OC"
     }
   },
   {
@@ -930,8 +893,7 @@
       "name": "Bairnsdale Airport",
       "countryCode": "AU",
       "countryName": "Australia",
-      "continent": "OC",
-      "arrivalCode": "BSJ"
+      "continent": "OC"
     }
   },
   {
@@ -954,8 +916,7 @@
       "name": "Colonel Hill Airport",
       "countryCode": "BS",
       "countryName": "Bahamas",
-      "continent": "NAM",
-      "arrivalCode": "CRI"
+      "continent": "NAM"
     }
   },
   {
@@ -978,8 +939,7 @@
       "name": "Minlaton Airport",
       "countryCode": "AU",
       "countryName": "Australia",
-      "continent": "OC",
-      "arrivalCode": "XML"
+      "continent": "OC"
     }
   },
   {
@@ -1002,8 +962,7 @@
       "name": "Cincinnati Northern Kentucky International Airport",
       "countryCode": "US",
       "countryName": "United States",
-      "continent": "NAM",
-      "arrivalCode": "CVG"
+      "continent": "NAM"
     }
   },
   {
@@ -1026,8 +985,7 @@
       "name": "Rar Gwamar Airport",
       "countryCode": "ID",
       "countryName": "Indonesia",
-      "continent": "AS",
-      "arrivalCode": "DOB"
+      "continent": "AS"
     }
   },
   {
@@ -1050,8 +1008,7 @@
       "name": "Sawyer International Airport",
       "countryCode": "US",
       "countryName": "United States",
-      "continent": "NAM",
-      "arrivalCode": "MQT"
+      "continent": "NAM"
     }
   },
   {
@@ -1074,8 +1031,7 @@
       "name": "Mirny Airport",
       "countryCode": "RU",
       "countryName": "Russian Federation",
-      "continent": "AS",
-      "arrivalCode": "MJZ"
+      "continent": "AS"
     }
   },
   {
@@ -1098,8 +1054,7 @@
       "name": "Susanville Municipal Airport",
       "countryCode": "US",
       "countryName": "United States",
-      "continent": "NAM",
-      "arrivalCode": "SVE"
+      "continent": "NAM"
     }
   },
   {
@@ -1122,8 +1077,7 @@
       "name": "Wichita Eisenhower National Airport",
       "countryCode": "US",
       "countryName": "United States",
-      "continent": "NAM",
-      "arrivalCode": "ICT"
+      "continent": "NAM"
     }
   },
   {
@@ -1146,8 +1100,7 @@
       "name": "Kavieng Airport",
       "countryCode": "PG",
       "countryName": "Papua New Guinea",
-      "continent": "OC",
-      "arrivalCode": "KVG"
+      "continent": "OC"
     }
   },
   {
@@ -1170,8 +1123,7 @@
       "name": "Arapiraca Airport",
       "countryCode": "BR",
       "countryName": "Brazil",
-      "continent": "SAM",
-      "arrivalCode": "APQ"
+      "continent": "SAM"
     }
   },
   {
@@ -1194,8 +1146,7 @@
       "name": "Port Lincoln Airport",
       "countryCode": "AU",
       "countryName": "Australia",
-      "continent": "OC",
-      "arrivalCode": "PLO"
+      "continent": "OC"
     }
   },
   {
@@ -1218,8 +1169,7 @@
       "name": "Roboré Airport",
       "countryCode": "BO",
       "countryName": "Bolivia, Plurinational State of",
-      "continent": "SAM",
-      "arrivalCode": "RBO"
+      "continent": "SAM"
     }
   },
   {
@@ -1242,8 +1192,7 @@
       "name": "Gaspé (Michel-Pouliot) Airport",
       "countryCode": "CA",
       "countryName": "Canada",
-      "continent": "NAM",
-      "arrivalCode": "YGP"
+      "continent": "NAM"
     }
   },
   {
@@ -1266,8 +1215,7 @@
       "name": "Kenmore Air Harbor Seaplane Base",
       "countryCode": "US",
       "countryName": "United States",
-      "continent": "NAM",
-      "arrivalCode": "LKE"
+      "continent": "NAM"
     }
   },
   {
@@ -1290,8 +1238,7 @@
       "name": "Diamantina Lakes Airport",
       "countryCode": "AU",
       "countryName": "Australia",
-      "continent": "OC",
-      "arrivalCode": "DYM"
+      "continent": "OC"
     }
   },
   {
@@ -1314,8 +1261,7 @@
       "name": "Quzhou Airport",
       "countryCode": "CN",
       "countryName": "China",
-      "continent": "AS",
-      "arrivalCode": "JUZ"
+      "continent": "AS"
     }
   },
   {
@@ -1338,8 +1284,7 @@
       "name": "McGhee Tyson Airport",
       "countryCode": "US",
       "countryName": "United States",
-      "continent": "NAM",
-      "arrivalCode": "TYS"
+      "continent": "NAM"
     }
   },
   {
@@ -1362,8 +1307,7 @@
       "name": "Mulika Lodge Airport",
       "countryCode": "KE",
       "countryName": "Kenya",
-      "continent": "AF",
-      "arrivalCode": "JJM"
+      "continent": "AF"
     }
   },
   {
@@ -1386,8 +1330,7 @@
       "name": "Badu Island Airport",
       "countryCode": "AU",
       "countryName": "Australia",
-      "continent": "OC",
-      "arrivalCode": "BDD"
+      "continent": "OC"
     }
   },
   {
@@ -1410,8 +1353,7 @@
       "name": "Putao Airport",
       "countryCode": "MM",
       "countryName": "Myanmar",
-      "continent": "AS",
-      "arrivalCode": "PBU"
+      "continent": "AS"
     }
   },
   {
@@ -1434,8 +1376,7 @@
       "name": "Ouahigouya Airport",
       "countryCode": "BF",
       "countryName": "Burkina Faso",
-      "continent": "AF",
-      "arrivalCode": "OUG"
+      "continent": "AF"
     }
   },
   {
@@ -1458,8 +1399,7 @@
       "name": "Tahsis Seaplane Base",
       "countryCode": "CA",
       "countryName": "Canada",
-      "continent": "NAM",
-      "arrivalCode": "ZTS"
+      "continent": "NAM"
     }
   },
   {
@@ -1482,8 +1422,7 @@
       "name": "Albert Lea Municipal Airport",
       "countryCode": "US",
       "countryName": "United States",
-      "continent": "NAM",
-      "arrivalCode": "AEL"
+      "continent": "NAM"
     }
   },
   {
@@ -1506,8 +1445,7 @@
       "name": "White Mountain Airport",
       "countryCode": "US",
       "countryName": "United States",
-      "continent": "NAM",
-      "arrivalCode": "WMO"
+      "continent": "NAM"
     }
   },
   {
@@ -1530,8 +1468,7 @@
       "name": "Southwest Florida International Airport",
       "countryCode": "US",
       "countryName": "United States",
-      "continent": "NAM",
-      "arrivalCode": "RSW"
+      "continent": "NAM"
     }
   },
   {
@@ -1554,8 +1491,7 @@
       "name": "South Galway Airport",
       "countryCode": "AU",
       "countryName": "Australia",
-      "continent": "OC",
-      "arrivalCode": "ZGL"
+      "continent": "OC"
     }
   },
   {
@@ -1578,8 +1514,7 @@
       "name": "Doini Airport",
       "countryCode": "PG",
       "countryName": "Papua New Guinea",
-      "continent": "OC",
-      "arrivalCode": "DOI"
+      "continent": "OC"
     }
   },
   {
@@ -1602,8 +1537,7 @@
       "name": "Nanjing Lukou Airport",
       "countryCode": "CN",
       "countryName": "China",
-      "continent": "AS",
-      "arrivalCode": "NKG"
+      "continent": "AS"
     }
   },
   {
@@ -1626,8 +1560,7 @@
       "name": "Mundo Maya International Airport",
       "countryCode": "GT",
       "countryName": "Guatemala",
-      "continent": "NAM",
-      "arrivalCode": "FRS"
+      "continent": "NAM"
     }
   },
   {
@@ -1650,8 +1583,7 @@
       "name": "Matsu Nangan Airport",
       "countryCode": "TW",
       "countryName": "Taiwan, Province of China",
-      "continent": "AS",
-      "arrivalCode": "LZN"
+      "continent": "AS"
     }
   },
   {
@@ -1674,8 +1606,7 @@
       "name": "Biju Patnaik Airport",
       "countryCode": "IN",
       "countryName": "India",
-      "continent": "AS",
-      "arrivalCode": "BBI"
+      "continent": "AS"
     }
   },
   {
@@ -1698,8 +1629,7 @@
       "name": "Tamchakett Airport",
       "countryCode": "MR",
       "countryName": "Mauritania",
-      "continent": "AF",
-      "arrivalCode": "THT"
+      "continent": "AF"
     }
   },
   {
@@ -1722,8 +1652,7 @@
       "name": "Yuruf Airport",
       "countryCode": "ID",
       "countryName": "Indonesia",
-      "continent": "AS",
-      "arrivalCode": "RUF"
+      "continent": "AS"
     }
   },
   {
@@ -1746,8 +1675,7 @@
       "name": "Monte Carmelo Airport",
       "countryCode": "BR",
       "countryName": "Brazil",
-      "continent": "SAM",
-      "arrivalCode": 0
+      "continent": "SAM"
     }
   },
   {
@@ -1770,8 +1698,7 @@
       "name": "Vadsø Airport",
       "countryCode": "NO",
       "countryName": "Norway",
-      "continent": "EU",
-      "arrivalCode": "VDS"
+      "continent": "EU"
     }
   },
   {
@@ -1794,8 +1721,7 @@
       "name": "Fakfak Airport",
       "countryCode": "ID",
       "countryName": "Indonesia",
-      "continent": "AS",
-      "arrivalCode": "FKQ"
+      "continent": "AS"
     }
   },
   {
@@ -1818,8 +1744,7 @@
       "name": "Islita Airport",
       "countryCode": "CR",
       "countryName": "Costa Rica",
-      "continent": "NAM",
-      "arrivalCode": "PBP"
+      "continent": "NAM"
     }
   },
   {
@@ -1842,8 +1767,7 @@
       "name": "João Paulo II Airport",
       "countryCode": "PT",
       "countryName": "Portugal",
-      "continent": "EU",
-      "arrivalCode": "PDL"
+      "continent": "EU"
     }
   },
   {
@@ -1866,8 +1790,7 @@
       "name": "Batticaloa Airport",
       "countryCode": "LK",
       "countryName": "Sri Lanka",
-      "continent": "AS",
-      "arrivalCode": "BTC"
+      "continent": "AS"
     }
   },
   {
@@ -1890,8 +1813,7 @@
       "name": "Omar N Bradley Airport",
       "countryCode": "US",
       "countryName": "United States",
-      "continent": "NAM",
-      "arrivalCode": "MBY"
+      "continent": "NAM"
     }
   },
   {
@@ -1914,8 +1836,7 @@
       "name": "Lihue Airport",
       "countryCode": "US",
       "countryName": "United States",
-      "continent": "NAM",
-      "arrivalCode": "LIH"
+      "continent": "NAM"
     }
   },
   {
@@ -1938,8 +1859,7 @@
       "name": "Spirit of St Louis Airport",
       "countryCode": "US",
       "countryName": "United States",
-      "continent": "NAM",
-      "arrivalCode": "SUS"
+      "continent": "NAM"
     }
   },
   {
@@ -1962,8 +1882,7 @@
       "name": "Tahsis Seaplane Base",
       "countryCode": "CA",
       "countryName": "Canada",
-      "continent": "NAM",
-      "arrivalCode": "ZTS"
+      "continent": "NAM"
     }
   },
   {
@@ -1986,8 +1905,7 @@
       "name": "Mururoa Atoll Airport",
       "countryCode": "PF",
       "countryName": "French Polynesia",
-      "continent": "OC",
-      "arrivalCode": "UOA"
+      "continent": "OC"
     }
   },
   {
@@ -2010,8 +1928,7 @@
       "name": "Denver International Airport",
       "countryCode": "US",
       "countryName": "United States",
-      "continent": "NAM",
-      "arrivalCode": "DEN"
+      "continent": "NAM"
     }
   },
   {
@@ -2034,8 +1951,7 @@
       "name": "Arly Airport",
       "countryCode": "BF",
       "countryName": "Burkina Faso",
-      "continent": "AF",
-      "arrivalCode": "ARL"
+      "continent": "AF"
     }
   },
   {
@@ -2058,8 +1974,7 @@
       "name": "Springfield Branson National Airport",
       "countryCode": "US",
       "countryName": "United States",
-      "continent": "NAM",
-      "arrivalCode": "SGF"
+      "continent": "NAM"
     }
   },
   {
@@ -2082,8 +1997,7 @@
       "name": "Paradise Island Airport",
       "countryCode": "MZ",
       "countryName": "Mozambique",
-      "continent": "AF",
-      "arrivalCode": "NTC"
+      "continent": "AF"
     }
   },
   {
@@ -2106,8 +2020,7 @@
       "name": "Merritt Airport",
       "countryCode": "CA",
       "countryName": "Canada",
-      "continent": "NAM",
-      "arrivalCode": "YMB"
+      "continent": "NAM"
     }
   },
   {
@@ -2130,8 +2043,7 @@
       "name": "Naval Outlying Field Imperial Beach (Ream Field)",
       "countryCode": "US",
       "countryName": "United States",
-      "continent": "NAM",
-      "arrivalCode": "NRS"
+      "continent": "NAM"
     }
   },
   {
@@ -2154,8 +2066,7 @@
       "name": "In Guezzam Airport",
       "countryCode": "DZ",
       "countryName": "Algeria",
-      "continent": "AF",
-      "arrivalCode": "INF"
+      "continent": "AF"
     }
   },
   {
@@ -2178,8 +2089,7 @@
       "name": "Aldan Airport",
       "countryCode": "RU",
       "countryName": "Russian Federation",
-      "continent": "AS",
-      "arrivalCode": "ADH"
+      "continent": "AS"
     }
   },
   {
@@ -2202,8 +2112,7 @@
       "name": "Bhojpur Airport",
       "countryCode": "NP",
       "countryName": "Nepal",
-      "continent": "AS",
-      "arrivalCode": "BHP"
+      "continent": "AS"
     }
   },
   {
@@ -2226,8 +2135,7 @@
       "name": "Gorna Oryahovitsa Airport",
       "countryCode": "BG",
       "countryName": "Bulgaria",
-      "continent": "EU",
-      "arrivalCode": "GOZ"
+      "continent": "EU"
     }
   },
   {
@@ -2250,8 +2158,7 @@
       "name": "Hattiesburg Laurel Regional Airport",
       "countryCode": "US",
       "countryName": "United States",
-      "continent": "NAM",
-      "arrivalCode": "PIB"
+      "continent": "NAM"
     }
   },
   {
@@ -2274,8 +2181,7 @@
       "name": "Nalchik Airport",
       "countryCode": "RU",
       "countryName": "Russian Federation",
-      "continent": "EU",
-      "arrivalCode": "NAL"
+      "continent": "EU"
     }
   },
   {
@@ -2298,8 +2204,7 @@
       "name": "Venice Municipal Airport",
       "countryCode": "US",
       "countryName": "United States",
-      "continent": "NAM",
-      "arrivalCode": "VNC"
+      "continent": "NAM"
     }
   },
   {
@@ -2322,8 +2227,7 @@
       "name": "Tanda Tula Airport",
       "countryCode": "ZA",
       "countryName": "South Africa",
-      "continent": "AF",
-      "arrivalCode": "TDT"
+      "continent": "AF"
     }
   },
   {
@@ -2346,8 +2250,7 @@
       "name": "Lar Airport",
       "countryCode": "IR",
       "countryName": "Iran, Islamic Republic of",
-      "continent": "AS",
-      "arrivalCode": "LRR"
+      "continent": "AS"
     }
   },
   {
@@ -2370,8 +2273,7 @@
       "name": "Stewart International Airport",
       "countryCode": "US",
       "countryName": "United States",
-      "continent": "NAM",
-      "arrivalCode": "SWF"
+      "continent": "NAM"
     }
   },
   {
@@ -2394,8 +2296,7 @@
       "name": "Genoa Cristoforo Colombo Airport",
       "countryCode": "IT",
       "countryName": "Italy",
-      "continent": "EU",
-      "arrivalCode": "GOA"
+      "continent": "EU"
     }
   },
   {
@@ -2418,8 +2319,7 @@
       "name": "Buka Airport",
       "countryCode": "PG",
       "countryName": "Papua New Guinea",
-      "continent": "OC",
-      "arrivalCode": "BUA"
+      "continent": "OC"
     }
   },
   {
@@ -2442,8 +2342,7 @@
       "name": "Copán Ruinas Airport",
       "countryCode": "HN",
       "countryName": "Honduras",
-      "continent": "NAM",
-      "arrivalCode": "RUY"
+      "continent": "NAM"
     }
   },
   {
@@ -2466,8 +2365,7 @@
       "name": "Waycross Ware County Airport",
       "countryCode": "US",
       "countryName": "United States",
-      "continent": "NAM",
-      "arrivalCode": "AYS"
+      "continent": "NAM"
     }
   },
   {
@@ -2490,8 +2388,7 @@
       "name": "En Nahud Airport",
       "countryCode": "SD",
       "countryName": "Sudan",
-      "continent": "AF",
-      "arrivalCode": "NUD"
+      "continent": "AF"
     }
   },
   {
@@ -2514,8 +2411,7 @@
       "name": "Memorial Field",
       "countryCode": "US",
       "countryName": "United States",
-      "continent": "NAM",
-      "arrivalCode": "HOT"
+      "continent": "NAM"
     }
   },
   {
@@ -2538,8 +2434,7 @@
       "name": "Tarama Airport",
       "countryCode": "JP",
       "countryName": "Japan",
-      "continent": "AS",
-      "arrivalCode": "TRA"
+      "continent": "AS"
     }
   },
   {
@@ -2562,8 +2457,7 @@
       "name": "Akita Airport",
       "countryCode": "JP",
       "countryName": "Japan",
-      "continent": "AS",
-      "arrivalCode": "AXT"
+      "continent": "AS"
     }
   },
   {
@@ -2586,8 +2480,7 @@
       "name": "Hatzfeldhaven Airport",
       "countryCode": "PG",
       "countryName": "Papua New Guinea",
-      "continent": "OC",
-      "arrivalCode": "HAZ"
+      "continent": "OC"
     }
   },
   {
@@ -2610,8 +2503,7 @@
       "name": "Tapini Airport",
       "countryCode": "PG",
       "countryName": "Papua New Guinea",
-      "continent": "OC",
-      "arrivalCode": "TPI"
+      "continent": "OC"
     }
   },
   {
@@ -2634,8 +2526,7 @@
       "name": "Casa De Campo International Airport",
       "countryCode": "DO",
       "countryName": "Dominican Republic",
-      "continent": "NAM",
-      "arrivalCode": "LRM"
+      "continent": "NAM"
     }
   },
   {
@@ -2658,8 +2549,7 @@
       "name": "Owatonna Degner Regional Airport",
       "countryCode": "US",
       "countryName": "United States",
-      "continent": "NAM",
-      "arrivalCode": "OWA"
+      "continent": "NAM"
     }
   },
   {
@@ -2682,8 +2572,7 @@
       "name": "Handan Airport",
       "countryCode": "CN",
       "countryName": "China",
-      "continent": "AS",
-      "arrivalCode": "HDG"
+      "continent": "AS"
     }
   },
   {
@@ -2706,8 +2595,7 @@
       "name": "Mal Airport",
       "countryCode": "PG",
       "countryName": "Papua New Guinea",
-      "continent": "OC",
-      "arrivalCode": "MMV"
+      "continent": "OC"
     }
   },
   {
@@ -2730,8 +2618,7 @@
       "name": "Fáskrúðsfjörður Airport",
       "countryCode": "IS",
       "countryName": "Iceland",
-      "continent": "EU",
-      "arrivalCode": "FAS"
+      "continent": "EU"
     }
   },
   {
@@ -2754,8 +2641,7 @@
       "name": "Omora Airport",
       "countryCode": "PG",
       "countryName": "Papua New Guinea",
-      "continent": "OC",
-      "arrivalCode": "OSE"
+      "continent": "OC"
     }
   },
   {
@@ -2778,8 +2664,7 @@
       "name": "Fort Mcpherson Airport",
       "countryCode": "CA",
       "countryName": "Canada",
-      "continent": "NAM",
-      "arrivalCode": "ZFM"
+      "continent": "NAM"
     }
   },
   {
@@ -2802,8 +2687,7 @@
       "name": "Newcastle Airport",
       "countryCode": "GB",
       "countryName": "United Kingdom",
-      "continent": "EU",
-      "arrivalCode": "NCL"
+      "continent": "EU"
     }
   },
   {
@@ -2826,8 +2710,7 @@
       "name": "Guanghan Airport",
       "countryCode": "CN",
       "countryName": "China",
-      "continent": "AS",
-      "arrivalCode": "GHN"
+      "continent": "AS"
     }
   },
   {
@@ -2850,8 +2733,7 @@
       "name": "Pureni Airport",
       "countryCode": "PG",
       "countryName": "Papua New Guinea",
-      "continent": "OC",
-      "arrivalCode": "PUI"
+      "continent": "OC"
     }
   },
   {
@@ -2874,8 +2756,7 @@
       "name": "Long Island Airport",
       "countryCode": "PG",
       "countryName": "Papua New Guinea",
-      "continent": "OC",
-      "arrivalCode": "LSJ"
+      "continent": "OC"
     }
   },
   {
@@ -2898,8 +2779,7 @@
       "name": "Xinzhou Wutaishan Airport",
       "countryCode": "CN",
       "countryName": "China",
-      "continent": "AS",
-      "arrivalCode": "WUT"
+      "continent": "AS"
     }
   },
   {
@@ -2922,8 +2802,7 @@
       "name": "Bandar Lengeh Airport",
       "countryCode": "IR",
       "countryName": "Iran, Islamic Republic of",
-      "continent": "AS",
-      "arrivalCode": "BDH"
+      "continent": "AS"
     }
   },
   {
@@ -2946,8 +2825,7 @@
       "name": "Canarana Airport",
       "countryCode": "BR",
       "countryName": "Brazil",
-      "continent": "SAM",
-      "arrivalCode": "CQA"
+      "continent": "SAM"
     }
   },
   {
@@ -2970,8 +2848,7 @@
       "name": "Cà Mau Airport",
       "countryCode": "VN",
       "countryName": "Viet Nam",
-      "continent": "AS",
-      "arrivalCode": "CAH"
+      "continent": "AS"
     }
   },
   {
@@ -2994,8 +2871,7 @@
       "name": "Tezu Airport",
       "countryCode": "IN",
       "countryName": "India",
-      "continent": "AS",
-      "arrivalCode": "TEI"
+      "continent": "AS"
     }
   },
   {
@@ -3018,8 +2894,7 @@
       "name": "Krasnoselkup Airport",
       "countryCode": "RU",
       "countryName": "Russian Federation",
-      "continent": "EU",
-      "arrivalCode": "KKQ"
+      "continent": "EU"
     }
   },
   {
@@ -3042,8 +2917,7 @@
       "name": "Monte Dourado Airport",
       "countryCode": "BR",
       "countryName": "Brazil",
-      "continent": "SAM",
-      "arrivalCode": "MEU"
+      "continent": "SAM"
     }
   },
   {
@@ -3066,8 +2940,7 @@
       "name": "Awaba Airport",
       "countryCode": "PG",
       "countryName": "Papua New Guinea",
-      "continent": "OC",
-      "arrivalCode": "AWB"
+      "continent": "OC"
     }
   },
   {
@@ -3090,8 +2963,7 @@
       "name": "Al Thaurah Airport",
       "countryCode": "SY",
       "countryName": "Syrian Arab Republic",
-      "continent": "AS",
-      "arrivalCode": "SOR"
+      "continent": "AS"
     }
   },
   {
@@ -3114,8 +2986,7 @@
       "name": "Sibiu International Airport",
       "countryCode": "RO",
       "countryName": "Romania",
-      "continent": "EU",
-      "arrivalCode": "SBZ"
+      "continent": "EU"
     }
   },
   {
@@ -3138,8 +3009,7 @@
       "name": "Panguitch Municipal Airport",
       "countryCode": "US",
       "countryName": "United States",
-      "continent": "NAM",
-      "arrivalCode": "PNU"
+      "continent": "NAM"
     }
   },
   {
@@ -3162,8 +3032,7 @@
       "name": "Cue Airport",
       "countryCode": "AU",
       "countryName": "Australia",
-      "continent": "OC",
-      "arrivalCode": "CUY"
+      "continent": "OC"
     }
   },
   {
@@ -3186,8 +3055,7 @@
       "name": "Ilam Airport",
       "countryCode": "IR",
       "countryName": "Iran, Islamic Republic of",
-      "continent": "AS",
-      "arrivalCode": "IIL"
+      "continent": "AS"
     }
   },
   {
@@ -3210,8 +3078,7 @@
       "name": "Soledade Airport",
       "countryCode": "BR",
       "countryName": "Brazil",
-      "continent": "SAM",
-      "arrivalCode": 0
+      "continent": "SAM"
     }
   },
   {
@@ -3234,8 +3101,7 @@
       "name": "Helenvale Airport",
       "countryCode": "AU",
       "countryName": "Australia",
-      "continent": "OC",
-      "arrivalCode": "HLV"
+      "continent": "OC"
     }
   },
   {
@@ -3258,8 +3124,7 @@
       "name": "Dalhart Municipal Airport",
       "countryCode": "US",
       "countryName": "United States",
-      "continent": "NAM",
-      "arrivalCode": "DHT"
+      "continent": "NAM"
     }
   },
   {
@@ -3282,8 +3147,7 @@
       "name": "Yam Island Airport",
       "countryCode": "AU",
       "countryName": "Australia",
-      "continent": "OC",
-      "arrivalCode": "XMY"
+      "continent": "OC"
     }
   },
   {
@@ -3306,8 +3170,7 @@
       "name": "St George Airport",
       "countryCode": "AU",
       "countryName": "Australia",
-      "continent": "OC",
-      "arrivalCode": "SGO"
+      "continent": "OC"
     }
   },
   {
@@ -3330,8 +3193,7 @@
       "name": "Dallas Love Field",
       "countryCode": "US",
       "countryName": "United States",
-      "continent": "NAM",
-      "arrivalCode": "DAL"
+      "continent": "NAM"
     }
   },
   {
@@ -3354,8 +3216,7 @@
       "name": "Gerrard Smith International Airport",
       "countryCode": "KY",
       "countryName": "Cayman Islands",
-      "continent": "NAM",
-      "arrivalCode": "CYB"
+      "continent": "NAM"
     }
   },
   {
@@ -3378,8 +3239,7 @@
       "name": "RAF Wildenrath",
       "countryCode": "DE",
       "countryName": "Germany",
-      "continent": "EU",
-      "arrivalCode": "WID"
+      "continent": "EU"
     }
   },
   {
@@ -3402,8 +3262,7 @@
       "name": "General Lucio Blanco International Airport",
       "countryCode": "MX",
       "countryName": "Mexico",
-      "continent": "NAM",
-      "arrivalCode": "REX"
+      "continent": "NAM"
     }
   },
   {
@@ -3426,8 +3285,7 @@
       "name": "Wantoat Airport",
       "countryCode": "PG",
       "countryName": "Papua New Guinea",
-      "continent": "OC",
-      "arrivalCode": "WTT"
+      "continent": "OC"
     }
   },
   {
@@ -3450,8 +3308,7 @@
       "name": "Sofia Airport",
       "countryCode": "BG",
       "countryName": "Bulgaria",
-      "continent": "EU",
-      "arrivalCode": "SOF"
+      "continent": "EU"
     }
   },
   {
@@ -3474,8 +3331,7 @@
       "name": "Antônio Guerreiro Airport",
       "countryCode": "BR",
       "countryName": "Brazil",
-      "continent": "SAM",
-      "arrivalCode": "GMS"
+      "continent": "SAM"
     }
   },
   {
@@ -3498,8 +3354,7 @@
       "name": "Central Maine Airport of Norridgewock",
       "countryCode": "US",
       "countryName": "United States",
-      "continent": "NAM",
-      "arrivalCode": "OWK"
+      "continent": "NAM"
     }
   },
   {
@@ -3522,8 +3377,7 @@
       "name": "Lawson Army Air Field (Fort Benning)",
       "countryCode": "US",
       "countryName": "United States",
-      "continent": "NAM",
-      "arrivalCode": "LSF"
+      "continent": "NAM"
     }
   },
   {
@@ -3546,8 +3400,7 @@
       "name": "Ust-Maya Airport",
       "countryCode": "RU",
       "countryName": "Russian Federation",
-      "continent": "EU",
-      "arrivalCode": "UMS"
+      "continent": "EU"
     }
   },
   {
@@ -3570,8 +3423,7 @@
       "name": "Dalby Airport",
       "countryCode": "AU",
       "countryName": "Australia",
-      "continent": "OC",
-      "arrivalCode": "DBY"
+      "continent": "OC"
     }
   },
   {
@@ -3594,8 +3446,7 @@
       "name": "Lučenec Airport",
       "countryCode": "SK",
       "countryName": "Slovakia",
-      "continent": "EU",
-      "arrivalCode": "LUE"
+      "continent": "EU"
     }
   },
   {
@@ -3618,8 +3469,7 @@
       "name": "Meghauli Airport",
       "countryCode": "NP",
       "countryName": "Nepal",
-      "continent": "AS",
-      "arrivalCode": "MEY"
+      "continent": "AS"
     }
   },
   {
@@ -3642,8 +3492,7 @@
       "name": "Nikolai Airport",
       "countryCode": "US",
       "countryName": "United States",
-      "continent": "NAM",
-      "arrivalCode": "NIB"
+      "continent": "NAM"
     }
   },
   {
@@ -3666,8 +3515,7 @@
       "name": "Bemidji Regional Airport",
       "countryCode": "US",
       "countryName": "United States",
-      "continent": "NAM",
-      "arrivalCode": "BJI"
+      "continent": "NAM"
     }
   },
   {
@@ -3690,8 +3538,7 @@
       "name": "Muhammad Salahuddin Airport",
       "countryCode": "ID",
       "countryName": "Indonesia",
-      "continent": "AS",
-      "arrivalCode": "BMU"
+      "continent": "AS"
     }
   },
   {
@@ -3714,8 +3561,7 @@
       "name": "Magdeburg \"City\" Airport",
       "countryCode": "DE",
       "countryName": "Germany",
-      "continent": "EU",
-      "arrivalCode": "ZMG"
+      "continent": "EU"
     }
   },
   {
@@ -3738,8 +3584,7 @@
       "name": "Tsletsi Airport",
       "countryCode": "DZ",
       "countryName": "Algeria",
-      "continent": "AF",
-      "arrivalCode": "QDJ"
+      "continent": "AF"
     }
   },
   {
@@ -3762,8 +3607,7 @@
       "name": "Groote Eylandt Airport",
       "countryCode": "AU",
       "countryName": "Australia",
-      "continent": "OC",
-      "arrivalCode": "GTE"
+      "continent": "OC"
     }
   },
   {
@@ -3786,8 +3630,7 @@
       "name": "Lemhi County Airport",
       "countryCode": "US",
       "countryName": "United States",
-      "continent": "NAM",
-      "arrivalCode": "SMN"
+      "continent": "NAM"
     }
   },
   {
@@ -3810,8 +3653,7 @@
       "name": "Green River Airport",
       "countryCode": "PG",
       "countryName": "Papua New Guinea",
-      "continent": "OC",
-      "arrivalCode": "GVI"
+      "continent": "OC"
     }
   },
   {
@@ -3834,8 +3676,7 @@
       "name": "Kenai Municipal Airport",
       "countryCode": "US",
       "countryName": "United States",
-      "continent": "NAM",
-      "arrivalCode": "ENA"
+      "continent": "NAM"
     }
   },
   {
@@ -3858,8 +3699,7 @@
       "name": "Margaret River (Station) Airport",
       "countryCode": "AU",
       "countryName": "Australia",
-      "continent": "OC",
-      "arrivalCode": "MGV"
+      "continent": "OC"
     }
   },
   {
@@ -3882,8 +3722,7 @@
       "name": "Abraham Lincoln Capital Airport",
       "countryCode": "US",
       "countryName": "United States",
-      "continent": "NAM",
-      "arrivalCode": "SPI"
+      "continent": "NAM"
     }
   },
   {
@@ -3906,8 +3745,7 @@
       "name": "Shahid Sadooghi Airport",
       "countryCode": "IR",
       "countryName": "Iran, Islamic Republic of",
-      "continent": "AS",
-      "arrivalCode": "AZD"
+      "continent": "AS"
     }
   },
   {
@@ -3930,8 +3768,7 @@
       "name": "Arathusa Safari Lodge Airport",
       "countryCode": "ZA",
       "countryName": "South Africa",
-      "continent": "AF",
-      "arrivalCode": "ASS"
+      "continent": "AF"
     }
   },
   {
@@ -3954,8 +3791,7 @@
       "name": "Bewani Airport",
       "countryCode": "PG",
       "countryName": "Papua New Guinea",
-      "continent": "OC",
-      "arrivalCode": "BWP"
+      "continent": "OC"
     }
   },
   {
@@ -3978,8 +3814,7 @@
       "name": "Jwaneng Airport",
       "countryCode": "BW",
       "countryName": "Botswana",
-      "continent": "AF",
-      "arrivalCode": "JWA"
+      "continent": "AF"
     }
   },
   {
@@ -4002,8 +3837,7 @@
       "name": "Turaif Domestic Airport",
       "countryCode": "SA",
       "countryName": "Saudi Arabia",
-      "continent": "AS",
-      "arrivalCode": "TUI"
+      "continent": "AS"
     }
   },
   {
@@ -4026,8 +3860,7 @@
       "name": "Nueva Loja Airport",
       "countryCode": "EC",
       "countryName": "Ecuador",
-      "continent": "SAM",
-      "arrivalCode": "LGQ"
+      "continent": "SAM"
     }
   },
   {
@@ -4050,8 +3883,7 @@
       "name": "Southern Seaplane Airport",
       "countryCode": "US",
       "countryName": "United States",
-      "continent": "NAM",
-      "arrivalCode": "BCS"
+      "continent": "NAM"
     }
   },
   {
@@ -4074,8 +3906,7 @@
       "name": "Wanuma Airport",
       "countryCode": "PG",
       "countryName": "Papua New Guinea",
-      "continent": "OC",
-      "arrivalCode": "WNU"
+      "continent": "OC"
     }
   },
   {
@@ -4098,8 +3929,7 @@
       "name": "Amchitka Army Airfield",
       "countryCode": "US",
       "countryName": "United States",
-      "continent": "NAM",
-      "arrivalCode": "AHT"
+      "continent": "NAM"
     }
   },
   {
@@ -4122,8 +3952,7 @@
       "name": "Araraquara Airport",
       "countryCode": "BR",
       "countryName": "Brazil",
-      "continent": "SAM",
-      "arrivalCode": "AQA"
+      "continent": "SAM"
     }
   },
   {
@@ -4146,8 +3975,7 @@
       "name": "Phoenix-Mesa-Gateway Airport",
       "countryCode": "US",
       "countryName": "United States",
-      "continent": "NAM",
-      "arrivalCode": "AZA"
+      "continent": "NAM"
     }
   },
   {
@@ -4170,8 +3998,7 @@
       "name": "Orocue Airport",
       "countryCode": "CO",
       "countryName": "Colombia",
-      "continent": "SAM",
-      "arrivalCode": "ORC"
+      "continent": "SAM"
     }
   },
   {
@@ -4194,8 +4021,7 @@
       "name": "Gorakhpur Airport",
       "countryCode": "IN",
       "countryName": "India",
-      "continent": "AS",
-      "arrivalCode": "GOP"
+      "continent": "AS"
     }
   },
   {
@@ -4218,8 +4044,7 @@
       "name": "Moody Air Force Base",
       "countryCode": "US",
       "countryName": "United States",
-      "continent": "NAM",
-      "arrivalCode": "VAD"
+      "continent": "NAM"
     }
   },
   {
@@ -4242,8 +4067,7 @@
       "name": "Sangir Airport",
       "countryCode": "ID",
       "countryName": "Indonesia",
-      "continent": "AS",
-      "arrivalCode": "SAE"
+      "continent": "AS"
     }
   },
   {
@@ -4266,8 +4090,7 @@
       "name": "Jubail Airport",
       "countryCode": "SA",
       "countryName": "Saudi Arabia",
-      "continent": "AS",
-      "arrivalCode": "QJB"
+      "continent": "AS"
     }
   },
   {
@@ -4290,8 +4113,7 @@
       "name": "Trona Airport",
       "countryCode": "US",
       "countryName": "United States",
-      "continent": "NAM",
-      "arrivalCode": "TRH"
+      "continent": "NAM"
     }
   },
   {
@@ -4314,8 +4136,7 @@
       "name": "Kribi Airport",
       "countryCode": "CM",
       "countryName": "Cameroon",
-      "continent": "AF",
-      "arrivalCode": "KBI"
+      "continent": "AF"
     }
   },
   {
@@ -4338,8 +4159,7 @@
       "name": "Black Tickle Airport",
       "countryCode": "CA",
       "countryName": "Canada",
-      "continent": "NAM",
-      "arrivalCode": "YBI"
+      "continent": "NAM"
     }
   },
   {
@@ -4362,8 +4182,7 @@
       "name": "Pakhokku Airport",
       "countryCode": "MM",
       "countryName": "Myanmar",
-      "continent": "AS",
-      "arrivalCode": "PKK"
+      "continent": "AS"
     }
   },
   {
@@ -4386,8 +4205,7 @@
       "name": "Khovd Airport",
       "countryCode": "MN",
       "countryName": "Mongolia",
-      "continent": "AS",
-      "arrivalCode": "HVD"
+      "continent": "AS"
     }
   },
   {
@@ -4410,8 +4228,7 @@
       "name": "Rostock-Laage Airport",
       "countryCode": "DE",
       "countryName": "Germany",
-      "continent": "EU",
-      "arrivalCode": "RLG"
+      "continent": "EU"
     }
   },
   {
@@ -4434,8 +4251,7 @@
       "name": "Mecheria Airport",
       "countryCode": "DZ",
       "countryName": "Algeria",
-      "continent": "AF",
-      "arrivalCode": "MZW"
+      "continent": "AF"
     }
   },
   {
@@ -4458,8 +4274,7 @@
       "name": "Shuswap Regional Airport",
       "countryCode": "CA",
       "countryName": "Canada",
-      "continent": "NAM",
-      "arrivalCode": "YSN"
+      "continent": "NAM"
     }
   },
   {
@@ -4482,8 +4297,7 @@
       "name": "Grumman Bethpage Airport",
       "countryCode": "US",
       "countryName": "United States",
-      "continent": "NAM",
-      "arrivalCode": "BPA"
+      "continent": "NAM"
     }
   },
   {
@@ -4506,8 +4320,7 @@
       "name": "Canefield Airport",
       "countryCode": "DM",
       "countryName": "Dominica",
-      "continent": "NAM",
-      "arrivalCode": "DCF"
+      "continent": "NAM"
     }
   },
   {
@@ -4530,8 +4343,7 @@
       "name": "Sultan Khairun Babullah Airport",
       "countryCode": "ID",
       "countryName": "Indonesia",
-      "continent": "AS",
-      "arrivalCode": "TTE"
+      "continent": "AS"
     }
   },
   {
@@ -4554,8 +4366,7 @@
       "name": "El Dorado International Airport",
       "countryCode": "CO",
       "countryName": "Colombia",
-      "continent": "SAM",
-      "arrivalCode": "BOG"
+      "continent": "SAM"
     }
   },
   {
@@ -4578,8 +4389,7 @@
       "name": "Fuerte Olimpo Airport",
       "countryCode": "PY",
       "countryName": "Paraguay",
-      "continent": "SAM",
-      "arrivalCode": "OLK"
+      "continent": "SAM"
     }
   },
   {
@@ -4602,8 +4412,7 @@
       "name": "Geraldton Greenstone Regional Airport",
       "countryCode": "CA",
       "countryName": "Canada",
-      "continent": "NAM",
-      "arrivalCode": "YGQ"
+      "continent": "NAM"
     }
   },
   {
@@ -4626,8 +4435,7 @@
       "name": "Bar Yehuda Airfield",
       "countryCode": "IL",
       "countryName": "Israel",
-      "continent": "AS",
-      "arrivalCode": "MTZ"
+      "continent": "AS"
     }
   },
   {
@@ -4650,8 +4458,7 @@
       "name": "Brandon Municipal Airport",
       "countryCode": "CA",
       "countryName": "Canada",
-      "continent": "NAM",
-      "arrivalCode": "YBR"
+      "continent": "NAM"
     }
   },
   {
@@ -4674,8 +4481,7 @@
       "name": "Rijeka Airport",
       "countryCode": "HR",
       "countryName": "Croatia",
-      "continent": "EU",
-      "arrivalCode": "RJK"
+      "continent": "EU"
     }
   },
   {
@@ -4698,8 +4504,7 @@
       "name": "Lebanon Municipal Airport",
       "countryCode": "US",
       "countryName": "United States",
-      "continent": "NAM",
-      "arrivalCode": "LEB"
+      "continent": "NAM"
     }
   },
   {
@@ -4722,8 +4527,7 @@
       "name": "Valcheta Airport",
       "countryCode": "AR",
       "countryName": "Argentina",
-      "continent": "SAM",
-      "arrivalCode": "VCF"
+      "continent": "SAM"
     }
   },
   {
@@ -4746,8 +4550,7 @@
       "name": "Futuna Airport",
       "countryCode": "VU",
       "countryName": "Vanuatu",
-      "continent": "OC",
-      "arrivalCode": "FTA"
+      "continent": "OC"
     }
   },
   {
@@ -4770,8 +4573,7 @@
       "name": "Nyngan Airport",
       "countryCode": "AU",
       "countryName": "Australia",
-      "continent": "OC",
-      "arrivalCode": "NYN"
+      "continent": "OC"
     }
   },
   {
@@ -4794,8 +4596,7 @@
       "name": "El Petén Airport",
       "countryCode": "GT",
       "countryName": "Guatemala",
-      "continent": "NAM",
-      "arrivalCode": "TKM"
+      "continent": "NAM"
     }
   },
   {
@@ -4818,8 +4619,7 @@
       "name": "Talakan Airport",
       "countryCode": "RU",
       "countryName": "Russian Federation",
-      "continent": "EU",
-      "arrivalCode": "TLK"
+      "continent": "EU"
     }
   },
   {
@@ -4842,8 +4642,7 @@
       "name": "Amos/Magny Airport",
       "countryCode": "CA",
       "countryName": "Canada",
-      "continent": "NAM",
-      "arrivalCode": "YEY"
+      "continent": "NAM"
     }
   },
   {
@@ -4866,8 +4665,7 @@
       "name": "Hutchinson County Airport",
       "countryCode": "US",
       "countryName": "United States",
-      "continent": "NAM",
-      "arrivalCode": "BGD"
+      "continent": "NAM"
     }
   },
   {
@@ -4890,8 +4688,7 @@
       "name": "Kaitaia Airport",
       "countryCode": "NZ",
       "countryName": "New Zealand",
-      "continent": "OC",
-      "arrivalCode": "KAT"
+      "continent": "OC"
     }
   },
   {
@@ -4914,8 +4711,7 @@
       "name": "Okmulgee Regional Airport",
       "countryCode": "US",
       "countryName": "United States",
-      "continent": "NAM",
-      "arrivalCode": "OKM"
+      "continent": "NAM"
     }
   },
   {
@@ -4938,8 +4734,7 @@
       "name": "Kalbarri Airport",
       "countryCode": "AU",
       "countryName": "Australia",
-      "continent": "OC",
-      "arrivalCode": "KAX"
+      "continent": "OC"
     }
   },
   {
@@ -4962,8 +4757,7 @@
       "name": "Mullewa Airport",
       "countryCode": "AU",
       "countryName": "Australia",
-      "continent": "OC",
-      "arrivalCode": "MXU"
+      "continent": "OC"
     }
   },
   {
@@ -4986,8 +4780,7 @@
       "name": "Elkhart Municipal Airport",
       "countryCode": "US",
       "countryName": "United States",
-      "continent": "NAM",
-      "arrivalCode": "EKI"
+      "continent": "NAM"
     }
   },
   {
@@ -5010,8 +4803,7 @@
       "name": "Osijek Airport",
       "countryCode": "HR",
       "countryName": "Croatia",
-      "continent": "EU",
-      "arrivalCode": "OSI"
+      "continent": "EU"
     }
   },
   {
@@ -5034,8 +4826,7 @@
       "name": "Pune Airport",
       "countryCode": "IN",
       "countryName": "India",
-      "continent": "AS",
-      "arrivalCode": "PNQ"
+      "continent": "AS"
     }
   },
   {
@@ -5058,8 +4849,7 @@
       "name": "Dien Bien Phu Airport",
       "countryCode": "VN",
       "countryName": "Viet Nam",
-      "continent": "AS",
-      "arrivalCode": "DIN"
+      "continent": "AS"
     }
   },
   {
@@ -5082,8 +4872,7 @@
       "name": "Leinster Airport",
       "countryCode": "AU",
       "countryName": "Australia",
-      "continent": "OC",
-      "arrivalCode": "LER"
+      "continent": "OC"
     }
   },
   {
@@ -5106,8 +4895,7 @@
       "name": "Valle Airport",
       "countryCode": "US",
       "countryName": "United States",
-      "continent": "NAM",
-      "arrivalCode": "VLE"
+      "continent": "NAM"
     }
   },
   {
@@ -5130,8 +4918,7 @@
       "name": "Etadunna Airport",
       "countryCode": "AU",
       "countryName": "Australia",
-      "continent": "OC",
-      "arrivalCode": "ETD"
+      "continent": "OC"
     }
   },
   {
@@ -5154,8 +4941,7 @@
       "name": "Kasenga Airport",
       "countryCode": "CD",
       "countryName": "Congo, The Democratic Republic of the",
-      "continent": "AF",
-      "arrivalCode": "KEC"
+      "continent": "AF"
     }
   },
   {
@@ -5178,8 +4964,7 @@
       "name": "Wabush Airport",
       "countryCode": "CA",
       "countryName": "Canada",
-      "continent": "NAM",
-      "arrivalCode": "YWK"
+      "continent": "NAM"
     }
   },
   {
@@ -5202,8 +4987,7 @@
       "name": "Schefferville Airport",
       "countryCode": "CA",
       "countryName": "Canada",
-      "continent": "NAM",
-      "arrivalCode": "YKL"
+      "continent": "NAM"
     }
   },
   {
@@ -5226,8 +5010,7 @@
       "name": "Kalaupapa Airport",
       "countryCode": "US",
       "countryName": "United States",
-      "continent": "NAM",
-      "arrivalCode": "LUP"
+      "continent": "NAM"
     }
   },
   {
@@ -5250,8 +5033,7 @@
       "name": "Victoria Harbour Seaplane Base",
       "countryCode": "CA",
       "countryName": "Canada",
-      "continent": "NAM",
-      "arrivalCode": "YWH"
+      "continent": "NAM"
     }
   },
   {
@@ -5274,8 +5056,7 @@
       "name": "Columbus Lowndes County Airport",
       "countryCode": "US",
       "countryName": "United States",
-      "continent": "NAM",
-      "arrivalCode": "UBS"
+      "continent": "NAM"
     }
   },
   {
@@ -5298,8 +5079,7 @@
       "name": "Centralia Municipal Airport",
       "countryCode": "US",
       "countryName": "United States",
-      "continent": "NAM",
-      "arrivalCode": "ENL"
+      "continent": "NAM"
     }
   },
   {
@@ -5322,8 +5102,7 @@
       "name": "Mariupol International Airport",
       "countryCode": "UA",
       "countryName": "Ukraine",
-      "continent": "EU",
-      "arrivalCode": "MPW"
+      "continent": "EU"
     }
   },
   {
@@ -5346,8 +5125,7 @@
       "name": "Jiayuguan Airport",
       "countryCode": "CN",
       "countryName": "China",
-      "continent": "AS",
-      "arrivalCode": "JGN"
+      "continent": "AS"
     }
   },
   {
@@ -5370,8 +5148,7 @@
       "name": "Grabtsevo Airport",
       "countryCode": "RU",
       "countryName": "Russian Federation",
-      "continent": "EU",
-      "arrivalCode": "KLF"
+      "continent": "EU"
     }
   },
   {
@@ -5394,8 +5171,7 @@
       "name": "Gällivare Airport",
       "countryCode": "SE",
       "countryName": "Sweden",
-      "continent": "EU",
-      "arrivalCode": "GEV"
+      "continent": "EU"
     }
   },
   {
@@ -5418,8 +5194,7 @@
       "name": "João Durval Carneiro Airport",
       "countryCode": "BR",
       "countryName": "Brazil",
-      "continent": "SAM",
-      "arrivalCode": "FEC"
+      "continent": "SAM"
     }
   },
   {
@@ -5442,8 +5217,7 @@
       "name": "Talasea Airport",
       "countryCode": "PG",
       "countryName": "Papua New Guinea",
-      "continent": "OC",
-      "arrivalCode": "TLW"
+      "continent": "OC"
     }
   },
   {
@@ -5466,8 +5240,7 @@
       "name": "Augusto C. Sandino (Managua) International Airport",
       "countryCode": "NI",
       "countryName": "Nicaragua",
-      "continent": "NAM",
-      "arrivalCode": "MGA"
+      "continent": "NAM"
     }
   },
   {
@@ -5490,8 +5263,7 @@
       "name": "University of Oklahoma Westheimer Airport",
       "countryCode": "US",
       "countryName": "United States",
-      "continent": "NAM",
-      "arrivalCode": "OUN"
+      "continent": "NAM"
     }
   },
   {
@@ -5514,8 +5286,7 @@
       "name": "Sepulot Airport",
       "countryCode": "MY",
       "countryName": "Malaysia",
-      "continent": "AS",
-      "arrivalCode": "SPE"
+      "continent": "AS"
     }
   },
   {
@@ -5538,8 +5309,7 @@
       "name": "Weeze Airport",
       "countryCode": "DE",
       "countryName": "Germany",
-      "continent": "EU",
-      "arrivalCode": "NRN"
+      "continent": "EU"
     }
   },
   {
@@ -5562,8 +5332,7 @@
       "name": "Moro Airport",
       "countryCode": "PG",
       "countryName": "Papua New Guinea",
-      "continent": "OC",
-      "arrivalCode": "MXH"
+      "continent": "OC"
     }
   },
   {
@@ -5586,8 +5355,7 @@
       "name": "Abingdon Downs Airport",
       "countryCode": "AU",
       "countryName": "Australia",
-      "continent": "OC",
-      "arrivalCode": "ABG"
+      "continent": "OC"
     }
   },
   {
@@ -5610,8 +5378,7 @@
       "name": "Swift Current Airport",
       "countryCode": "CA",
       "countryName": "Canada",
-      "continent": "NAM",
-      "arrivalCode": "YYN"
+      "continent": "NAM"
     }
   },
   {
@@ -5634,8 +5401,7 @@
       "name": "Friedman Memorial Airport",
       "countryCode": "US",
       "countryName": "United States",
-      "continent": "NAM",
-      "arrivalCode": "SUN"
+      "continent": "NAM"
     }
   },
   {
@@ -5658,8 +5424,7 @@
       "name": "Senanga Airport",
       "countryCode": "ZM",
       "countryName": "Zambia",
-      "continent": "AF",
-      "arrivalCode": "SXG"
+      "continent": "AF"
     }
   },
   {
@@ -5682,8 +5447,7 @@
       "name": "RAF Lyneham",
       "countryCode": "GB",
       "countryName": "United Kingdom",
-      "continent": "EU",
-      "arrivalCode": "LYE"
+      "continent": "EU"
     }
   },
   {
@@ -5706,8 +5470,7 @@
       "name": "Hazyview Airport",
       "countryCode": "ZA",
       "countryName": "South Africa",
-      "continent": "AF",
-      "arrivalCode": "HZV"
+      "continent": "AF"
     }
   },
   {
@@ -5730,8 +5493,7 @@
       "name": "Waterloo Regional Airport",
       "countryCode": "US",
       "countryName": "United States",
-      "continent": "NAM",
-      "arrivalCode": "ALO"
+      "continent": "NAM"
     }
   },
   {
@@ -5754,8 +5516,7 @@
       "name": "Wilwal International Airport",
       "countryCode": "ET",
       "countryName": "Ethiopia",
-      "continent": "AF",
-      "arrivalCode": "JIJ"
+      "continent": "AF"
     }
   },
   {
@@ -5778,8 +5539,7 @@
       "name": "Jasper Airport",
       "countryCode": "CA",
       "countryName": "Canada",
-      "continent": "NAM",
-      "arrivalCode": "YJA"
+      "continent": "NAM"
     }
   },
   {
@@ -5802,8 +5562,7 @@
       "name": "Biała Podlaska Airfield",
       "countryCode": "PL",
       "countryName": "Poland",
-      "continent": "EU",
-      "arrivalCode": "BXP"
+      "continent": "EU"
     }
   },
   {
@@ -5826,8 +5585,7 @@
       "name": "St Paul Island Airport",
       "countryCode": "US",
       "countryName": "United States",
-      "continent": "NAM",
-      "arrivalCode": "SNP"
+      "continent": "NAM"
     }
   },
   {
@@ -5850,8 +5608,7 @@
       "name": "Salt Lake City International Airport",
       "countryCode": "US",
       "countryName": "United States",
-      "continent": "NAM",
-      "arrivalCode": "SLC"
+      "continent": "NAM"
     }
   },
   {
@@ -5874,8 +5631,7 @@
       "name": "Wana Airport",
       "countryCode": "PK",
       "countryName": "Pakistan",
-      "continent": "AS",
-      "arrivalCode": "WAF"
+      "continent": "AS"
     }
   },
   {
@@ -5898,8 +5654,7 @@
       "name": "Nevatim Air Base",
       "countryCode": "IL",
       "countryName": "Israel",
-      "continent": "AS",
-      "arrivalCode": "VTM"
+      "continent": "AS"
     }
   },
   {
@@ -5922,8 +5677,7 @@
       "name": "Abel Santamaria Airport",
       "countryCode": "CU",
       "countryName": "Cuba",
-      "continent": "NAM",
-      "arrivalCode": "SNU"
+      "continent": "NAM"
     }
   },
   {
@@ -5946,8 +5700,7 @@
       "name": "Barcelona International Airport",
       "countryCode": "ES",
       "countryName": "Spain",
-      "continent": "EU",
-      "arrivalCode": "BCN"
+      "continent": "EU"
     }
   },
   {
@@ -5970,8 +5723,7 @@
       "name": "Battambang Airport",
       "countryCode": "KH",
       "countryName": "Cambodia",
-      "continent": "AS",
-      "arrivalCode": "BBM"
+      "continent": "AS"
     }
   },
   {
@@ -5994,8 +5746,7 @@
       "name": "Aseki Airport",
       "countryCode": "PG",
       "countryName": "Papua New Guinea",
-      "continent": "OC",
-      "arrivalCode": "AEK"
+      "continent": "OC"
     }
   },
   {
@@ -6018,8 +5769,7 @@
       "name": "Vila Real Airport",
       "countryCode": "PT",
       "countryName": "Portugal",
-      "continent": "EU",
-      "arrivalCode": "VRL"
+      "continent": "EU"
     }
   },
   {
@@ -6042,8 +5792,7 @@
       "name": "Jacquinot Bay Airport",
       "countryCode": "PG",
       "countryName": "Papua New Guinea",
-      "continent": "OC",
-      "arrivalCode": "JAQ"
+      "continent": "OC"
     }
   },
   {
@@ -6066,8 +5815,7 @@
       "name": "Tibooburra Airport",
       "countryCode": "AU",
       "countryName": "Australia",
-      "continent": "OC",
-      "arrivalCode": "TYB"
+      "continent": "OC"
     }
   },
   {
@@ -6090,8 +5838,7 @@
       "name": "Mountain Village Airport",
       "countryCode": "US",
       "countryName": "United States",
-      "continent": "NAM",
-      "arrivalCode": "MOU"
+      "continent": "NAM"
     }
   },
   {
@@ -6114,8 +5861,7 @@
       "name": "Thumrait Air Base",
       "countryCode": "OM",
       "countryName": "Oman",
-      "continent": "AS",
-      "arrivalCode": "TTH"
+      "continent": "AS"
     }
   },
   {
@@ -6138,8 +5884,7 @@
       "name": "Jorge Chávez International Airport",
       "countryCode": "PE",
       "countryName": "Peru",
-      "continent": "SAM",
-      "arrivalCode": "LIM"
+      "continent": "SAM"
     }
   },
   {
@@ -6162,8 +5907,7 @@
       "name": "Carutapera Airport",
       "countryCode": "BR",
       "countryName": "Brazil",
-      "continent": "SAM",
-      "arrivalCode": "CTP"
+      "continent": "SAM"
     }
   },
   {
@@ -6186,8 +5930,7 @@
       "name": "Robertson Airport",
       "countryCode": "ZA",
       "countryName": "South Africa",
-      "continent": "AF",
-      "arrivalCode": "ROD"
+      "continent": "AF"
     }
   },
   {
@@ -6210,8 +5953,7 @@
       "name": "Potchefstroom Airport",
       "countryCode": "ZA",
       "countryName": "South Africa",
-      "continent": "AF",
-      "arrivalCode": "PCF"
+      "continent": "AF"
     }
   },
   {
@@ -6234,8 +5976,7 @@
       "name": "Nantes Atlantique Airport",
       "countryCode": "FR",
       "countryName": "France",
-      "continent": "EU",
-      "arrivalCode": "NTE"
+      "continent": "EU"
     }
   },
   {
@@ -6258,8 +5999,7 @@
       "name": "Southwest Minnesota Regional Airport - Marshall/Ryan Field",
       "countryCode": "US",
       "countryName": "United States",
-      "continent": "NAM",
-      "arrivalCode": "MML"
+      "continent": "NAM"
     }
   },
   {
@@ -6282,8 +6022,7 @@
       "name": "RAF Wyton",
       "countryCode": "GB",
       "countryName": "United Kingdom",
-      "continent": "EU",
-      "arrivalCode": "QUY"
+      "continent": "EU"
     }
   },
   {
@@ -6306,8 +6045,7 @@
       "name": "Mendi Airport",
       "countryCode": "ET",
       "countryName": "Ethiopia",
-      "continent": "AF",
-      "arrivalCode": "NDM"
+      "continent": "AF"
     }
   },
   {
@@ -6330,8 +6068,7 @@
       "name": "Wipim Airport",
       "countryCode": "PG",
       "countryName": "Papua New Guinea",
-      "continent": "OC",
-      "arrivalCode": "WPM"
+      "continent": "OC"
     }
   },
   {
@@ -6354,8 +6091,7 @@
       "name": "Wanxian Airport",
       "countryCode": "CN",
       "countryName": "China",
-      "continent": "AS",
-      "arrivalCode": "WXN"
+      "continent": "AS"
     }
   },
   {
@@ -6378,8 +6114,7 @@
       "name": "Lauro Carneiro de Loyola Airport",
       "countryCode": "BR",
       "countryName": "Brazil",
-      "continent": "SAM",
-      "arrivalCode": "JOI"
+      "continent": "SAM"
     }
   },
   {
@@ -6402,8 +6137,7 @@
       "name": "Broken Hill Airport",
       "countryCode": "AU",
       "countryName": "Australia",
-      "continent": "OC",
-      "arrivalCode": "BHQ"
+      "continent": "OC"
     }
   },
   {
@@ -6426,8 +6160,7 @@
       "name": "Kota Airport",
       "countryCode": "IN",
       "countryName": "India",
-      "continent": "AS",
-      "arrivalCode": "KTU"
+      "continent": "AS"
     }
   },
   {
@@ -6450,8 +6183,7 @@
       "name": "Igiugig Airport",
       "countryCode": "US",
       "countryName": "United States",
-      "continent": "NAM",
-      "arrivalCode": "IGG"
+      "continent": "NAM"
     }
   },
   {
@@ -6474,8 +6206,7 @@
       "name": "Sangir Airport",
       "countryCode": "ID",
       "countryName": "Indonesia",
-      "continent": "AS",
-      "arrivalCode": "SAE"
+      "continent": "AS"
     }
   },
   {
@@ -6498,8 +6229,7 @@
       "name": "Westerly State Airport",
       "countryCode": "US",
       "countryName": "United States",
-      "continent": "NAM",
-      "arrivalCode": "WST"
+      "continent": "NAM"
     }
   },
   {
@@ -6522,8 +6252,7 @@
       "name": "Lethem Airport",
       "countryCode": "GY",
       "countryName": "Guyana",
-      "continent": "SAM",
-      "arrivalCode": "LTM"
+      "continent": "SAM"
     }
   },
   {
@@ -6546,8 +6275,7 @@
       "name": "Rugao Air Base",
       "countryCode": "CN",
       "countryName": "China",
-      "continent": "AS",
-      "arrivalCode": "RUG"
+      "continent": "AS"
     }
   },
   {
@@ -6570,8 +6298,7 @@
       "name": "São Miguel do Oeste Airport",
       "countryCode": "BR",
       "countryName": "Brazil",
-      "continent": "SAM",
-      "arrivalCode": "SQX"
+      "continent": "SAM"
     }
   },
   {
@@ -6594,8 +6321,7 @@
       "name": "Bandeirantes Airport",
       "countryCode": "BR",
       "countryName": "Brazil",
-      "continent": "SAM",
-      "arrivalCode": 0
+      "continent": "SAM"
     }
   },
   {
@@ -6618,8 +6344,7 @@
       "name": "Phu Cat Airport",
       "countryCode": "VN",
       "countryName": "Viet Nam",
-      "continent": "AS",
-      "arrivalCode": "UIH"
+      "continent": "AS"
     }
   },
   {
@@ -6642,8 +6367,7 @@
       "name": "Oriximiná Airport",
       "countryCode": "BR",
       "countryName": "Brazil",
-      "continent": "SAM",
-      "arrivalCode": "ORX"
+      "continent": "SAM"
     }
   },
   {
@@ -6666,8 +6390,7 @@
       "name": "Governor's Harbour Airport",
       "countryCode": "BS",
       "countryName": "Bahamas",
-      "continent": "NAM",
-      "arrivalCode": "GHB"
+      "continent": "NAM"
     }
   },
   {
@@ -6690,8 +6413,7 @@
       "name": "Bella Union Airport",
       "countryCode": "UY",
       "countryName": "Uruguay",
-      "continent": "SAM",
-      "arrivalCode": "BUV"
+      "continent": "SAM"
     }
   },
   {
@@ -6714,8 +6436,7 @@
       "name": "Asaloyeh Airport",
       "countryCode": "IR",
       "countryName": "Iran, Islamic Republic of",
-      "continent": "AS",
-      "arrivalCode": "YEH"
+      "continent": "AS"
     }
   },
   {
@@ -6738,8 +6459,7 @@
       "name": "Mecheria Airport",
       "countryCode": "DZ",
       "countryName": "Algeria",
-      "continent": "AF",
-      "arrivalCode": "MZW"
+      "continent": "AF"
     }
   },
   {
@@ -6762,8 +6482,7 @@
       "name": "Hermannsburg Airport",
       "countryCode": "AU",
       "countryName": "Australia",
-      "continent": "OC",
-      "arrivalCode": "HMG"
+      "continent": "OC"
     }
   },
   {
@@ -6786,8 +6505,7 @@
       "name": "Dachuan Airport",
       "countryCode": "CN",
       "countryName": "China",
-      "continent": "AS",
-      "arrivalCode": "DAX"
+      "continent": "AS"
     }
   },
   {
@@ -6810,8 +6528,7 @@
       "name": "Dongji Aiport",
       "countryCode": "CN",
       "countryName": "China",
-      "continent": "AS",
-      "arrivalCode": "FYJ"
+      "continent": "AS"
     }
   },
   {
@@ -6834,8 +6551,7 @@
       "name": "Punta Colorada Airport",
       "countryCode": "MX",
       "countryName": "Mexico",
-      "continent": "NAM",
-      "arrivalCode": "PCO"
+      "continent": "NAM"
     }
   },
   {
@@ -6858,8 +6574,7 @@
       "name": "Deer Harbor SPB",
       "countryCode": "US",
       "countryName": "United States",
-      "continent": "NAM",
-      "arrivalCode": "DHB"
+      "continent": "NAM"
     }
   },
   {
@@ -6882,8 +6597,7 @@
       "name": "Rawalakot Airport",
       "countryCode": "PK",
       "countryName": "Pakistan",
-      "continent": "AS",
-      "arrivalCode": "RAZ"
+      "continent": "AS"
     }
   },
   {
@@ -6906,8 +6620,7 @@
       "name": "Sioux Lookout Airport",
       "countryCode": "CA",
       "countryName": "Canada",
-      "continent": "NAM",
-      "arrivalCode": "YXL"
+      "continent": "NAM"
     }
   },
   {
@@ -6930,8 +6643,7 @@
       "name": "Quinhagak Airport",
       "countryCode": "US",
       "countryName": "United States",
-      "continent": "NAM",
-      "arrivalCode": "KWN"
+      "continent": "NAM"
     }
   },
   {
@@ -6954,8 +6666,7 @@
       "name": "Tengchong Tuofeng Airport",
       "countryCode": "CN",
       "countryName": "China",
-      "continent": "AS",
-      "arrivalCode": "TCZ"
+      "continent": "AS"
     }
   },
   {
@@ -6978,8 +6689,7 @@
       "name": "Rabat-Salé Airport",
       "countryCode": "MA",
       "countryName": "Morocco",
-      "continent": "AF",
-      "arrivalCode": "RBA"
+      "continent": "AF"
     }
   },
   {
@@ -7002,8 +6712,7 @@
       "name": "Lučenec Airport",
       "countryCode": "SK",
       "countryName": "Slovakia",
-      "continent": "EU",
-      "arrivalCode": "LUE"
+      "continent": "EU"
     }
   },
   {
@@ -7026,8 +6735,7 @@
       "name": "Mendeleyevo Airport",
       "countryCode": "RU",
       "countryName": "Russian Federation",
-      "continent": "AS",
-      "arrivalCode": "DEE"
+      "continent": "AS"
     }
   },
   {
@@ -7050,8 +6758,7 @@
       "name": "Mahshahr Airport",
       "countryCode": "IR",
       "countryName": "Iran, Islamic Republic of",
-      "continent": "AS",
-      "arrivalCode": "MRX"
+      "continent": "AS"
     }
   },
   {
@@ -7074,8 +6781,7 @@
       "name": "Alexander Bay Airport",
       "countryCode": "ZA",
       "countryName": "South Africa",
-      "continent": "AF",
-      "arrivalCode": "ALJ"
+      "continent": "AF"
     }
   },
   {
@@ -7098,8 +6804,7 @@
       "name": "Baie-Johan-Beetz Water Aerodrome",
       "countryCode": "CA",
       "countryName": "Canada",
-      "continent": "NAM",
-      "arrivalCode": "YBJ"
+      "continent": "NAM"
     }
   },
   {
@@ -7122,8 +6827,7 @@
       "name": "Lowe AHP (Fort Rucker) Heliport",
       "countryCode": "US",
       "countryName": "United States",
-      "continent": "NAM",
-      "arrivalCode": "LOR"
+      "continent": "NAM"
     }
   },
   {
@@ -7146,8 +6850,7 @@
       "name": "Nambaiyufa Airport",
       "countryCode": "PG",
       "countryName": "Papua New Guinea",
-      "continent": "OC",
-      "arrivalCode": "NBA"
+      "continent": "OC"
     }
   },
   {
@@ -7170,8 +6873,7 @@
       "name": "Warren County Memorial Airport",
       "countryCode": "US",
       "countryName": "United States",
-      "continent": "NAM",
-      "arrivalCode": "RNC"
+      "continent": "NAM"
     }
   },
   {
@@ -7194,8 +6896,7 @@
       "name": "Monywar Airport",
       "countryCode": "MM",
       "countryName": "Myanmar",
-      "continent": "AS",
-      "arrivalCode": "NYW"
+      "continent": "AS"
     }
   },
   {
@@ -7218,8 +6919,7 @@
       "name": "Kelafo East Airport",
       "countryCode": "ET",
       "countryName": "Ethiopia",
-      "continent": "AF",
-      "arrivalCode": "LFO"
+      "continent": "AF"
     }
   },
   {
@@ -7242,8 +6942,7 @@
       "name": "Hartness State (Springfield) Airport",
       "countryCode": "US",
       "countryName": "United States",
-      "continent": "NAM",
-      "arrivalCode": "VSF"
+      "continent": "NAM"
     }
   },
   {
@@ -7266,8 +6965,7 @@
       "name": "Vladivostok International Airport",
       "countryCode": "RU",
       "countryName": "Russian Federation",
-      "continent": "AS",
-      "arrivalCode": "VVO"
+      "continent": "AS"
     }
   },
   {
@@ -7290,8 +6988,7 @@
       "name": "Sumter Airport",
       "countryCode": "US",
       "countryName": "United States",
-      "continent": "NAM",
-      "arrivalCode": "SUM"
+      "continent": "NAM"
     }
   },
   {
@@ -7314,8 +7011,7 @@
       "name": "Kuressaare Airport",
       "countryCode": "EE",
       "countryName": "Estonia",
-      "continent": "EU",
-      "arrivalCode": "URE"
+      "continent": "EU"
     }
   },
   {
@@ -7338,8 +7034,7 @@
       "name": "Ahmed Al Jaber Air Base",
       "countryCode": "KW",
       "countryName": "Kuwait",
-      "continent": "AS",
-      "arrivalCode": "XIJ"
+      "continent": "AS"
     }
   },
   {
@@ -7362,8 +7057,7 @@
       "name": "Larisa Airport",
       "countryCode": "GR",
       "countryName": "Greece",
-      "continent": "EU",
-      "arrivalCode": "LRA"
+      "continent": "EU"
     }
   },
   {
@@ -7386,8 +7080,7 @@
       "name": "Tho Xuan Airport",
       "countryCode": "VN",
       "countryName": "Viet Nam",
-      "continent": "AS",
-      "arrivalCode": "THD"
+      "continent": "AS"
     }
   },
   {
@@ -7410,8 +7103,7 @@
       "name": "Kasonombe Airport",
       "countryCode": "PG",
       "countryName": "Papua New Guinea",
-      "continent": "OC",
-      "arrivalCode": "KSB"
+      "continent": "OC"
     }
   },
   {
@@ -7434,8 +7126,7 @@
       "name": "Memphis International Airport",
       "countryCode": "US",
       "countryName": "United States",
-      "continent": "NAM",
-      "arrivalCode": "MEM"
+      "continent": "NAM"
     }
   },
   {
@@ -7458,8 +7149,7 @@
       "name": "Banfora Airport",
       "countryCode": "BF",
       "countryName": "Burkina Faso",
-      "continent": "AF",
-      "arrivalCode": "BNR"
+      "continent": "AF"
     }
   },
   {
@@ -7482,8 +7172,7 @@
       "name": "Wapekeka Airport",
       "countryCode": "CA",
       "countryName": "Canada",
-      "continent": "NAM",
-      "arrivalCode": "YAX"
+      "continent": "NAM"
     }
   },
   {
@@ -7506,8 +7195,7 @@
       "name": "Blaise Diagne International Airport",
       "countryCode": "SN",
       "countryName": "Senegal",
-      "continent": "AF",
-      "arrivalCode": "DSS"
+      "continent": "AF"
     }
   },
   {
@@ -7530,8 +7218,7 @@
       "name": "Rebun Airport",
       "countryCode": "JP",
       "countryName": "Japan",
-      "continent": "AS",
-      "arrivalCode": "RBJ"
+      "continent": "AS"
     }
   },
   {
@@ -7554,8 +7241,7 @@
       "name": "Theda Station Airport",
       "countryCode": "AU",
       "countryName": "Australia",
-      "continent": "OC",
-      "arrivalCode": "TDN"
+      "continent": "OC"
     }
   },
   {
@@ -7578,8 +7264,7 @@
       "name": "Akieni Airport",
       "countryCode": "GA",
       "countryName": "Gabon",
-      "continent": "AF",
-      "arrivalCode": "AKE"
+      "continent": "AF"
     }
   },
   {
@@ -7602,8 +7287,7 @@
       "name": "Port Moller Airport",
       "countryCode": "US",
       "countryName": "United States",
-      "continent": "NAM",
-      "arrivalCode": "PML"
+      "continent": "NAM"
     }
   },
   {
@@ -7626,8 +7310,7 @@
       "name": "Gardo Airport",
       "countryCode": "SO",
       "countryName": "Somalia",
-      "continent": "AF",
-      "arrivalCode": "GSR"
+      "continent": "AF"
     }
   },
   {
@@ -7650,8 +7333,7 @@
       "name": "Crossville Memorial Whitson Field",
       "countryCode": "US",
       "countryName": "United States",
-      "continent": "NAM",
-      "arrivalCode": "CSV"
+      "continent": "NAM"
     }
   },
   {
@@ -7674,8 +7356,7 @@
       "name": "Yoshkar-Ola Airport",
       "countryCode": "RU",
       "countryName": "Russian Federation",
-      "continent": "EU",
-      "arrivalCode": "JOK"
+      "continent": "EU"
     }
   },
   {
@@ -7698,8 +7379,7 @@
       "name": "Ocean Reef Club Airport",
       "countryCode": "US",
       "countryName": "United States",
-      "continent": "NAM",
-      "arrivalCode": "OCA"
+      "continent": "NAM"
     }
   },
   {
@@ -7722,8 +7402,7 @@
       "name": "Dourados Airport",
       "countryCode": "BR",
       "countryName": "Brazil",
-      "continent": "SAM",
-      "arrivalCode": "DOU"
+      "continent": "SAM"
     }
   },
   {
@@ -7746,8 +7425,7 @@
       "name": "South Molle Island Helipad",
       "countryCode": "AU",
       "countryName": "Australia",
-      "continent": "OC",
-      "arrivalCode": "SOI"
+      "continent": "OC"
     }
   },
   {
@@ -7770,8 +7448,7 @@
       "name": "Skövde Airport",
       "countryCode": "SE",
       "countryName": "Sweden",
-      "continent": "EU",
-      "arrivalCode": "KVB"
+      "continent": "EU"
     }
   },
   {
@@ -7794,8 +7471,7 @@
       "name": "Odienne Airport",
       "countryCode": "CI",
       "countryName": "Côte d'Ivoire",
-      "continent": "AF",
-      "arrivalCode": "KEO"
+      "continent": "AF"
     }
   },
   {
@@ -7818,8 +7494,7 @@
       "name": "Bronson Creek Airport",
       "countryCode": "CA",
       "countryName": "Canada",
-      "continent": "NAM",
-      "arrivalCode": "YBM"
+      "continent": "NAM"
     }
   },
   {
@@ -7842,8 +7517,7 @@
       "name": "Hachijojima Airport",
       "countryCode": "JP",
       "countryName": "Japan",
-      "continent": "AS",
-      "arrivalCode": "HAC"
+      "continent": "AS"
     }
   },
   {
@@ -7866,8 +7540,7 @@
       "name": "Mount Pleasant Airport",
       "countryCode": "FK",
       "countryName": "Falkland Islands (Malvinas)",
-      "continent": "SAM",
-      "arrivalCode": "MPN"
+      "continent": "SAM"
     }
   },
   {
@@ -7890,8 +7563,7 @@
       "name": "Bazhong Enyang Airport",
       "countryCode": "CN",
       "countryName": "China",
-      "continent": "AS",
-      "arrivalCode": "BZX"
+      "continent": "AS"
     }
   },
   {
@@ -7914,8 +7586,7 @@
       "name": "Alejandro Velasco Astete International Airport",
       "countryCode": "PE",
       "countryName": "Peru",
-      "continent": "SAM",
-      "arrivalCode": "CUZ"
+      "continent": "SAM"
     }
   },
   {
@@ -7938,8 +7609,7 @@
       "name": "Avu Avu Airport",
       "countryCode": "SB",
       "countryName": "Solomon Islands",
-      "continent": "OC",
-      "arrivalCode": "AVU"
+      "continent": "OC"
     }
   },
   {
@@ -7962,8 +7632,7 @@
       "name": "Maroantsetra Airport",
       "countryCode": "MG",
       "countryName": "Madagascar",
-      "continent": "AF",
-      "arrivalCode": "WMN"
+      "continent": "AF"
     }
   },
   {
@@ -7986,8 +7655,7 @@
       "name": "Pangsuma Airport",
       "countryCode": "ID",
       "countryName": "Indonesia",
-      "continent": "AS",
-      "arrivalCode": "PSU"
+      "continent": "AS"
     }
   },
   {
@@ -8010,8 +7678,7 @@
       "name": "Baudette International Airport",
       "countryCode": "US",
       "countryName": "United States",
-      "continent": "NAM",
-      "arrivalCode": "BDE"
+      "continent": "NAM"
     }
   },
   {
@@ -8034,8 +7701,7 @@
       "name": "Nelson Ribeiro Guimarães Airport",
       "countryCode": "BR",
       "countryName": "Brazil",
-      "continent": "SAM",
-      "arrivalCode": "CLV"
+      "continent": "SAM"
     }
   },
   {
@@ -8058,8 +7724,7 @@
       "name": "Coventry Airport",
       "countryCode": "GB",
       "countryName": "United Kingdom",
-      "continent": "EU",
-      "arrivalCode": "CVT"
+      "continent": "EU"
     }
   },
   {
@@ -8082,8 +7747,7 @@
       "name": "Ioannina Airport",
       "countryCode": "GR",
       "countryName": "Greece",
-      "continent": "EU",
-      "arrivalCode": "IOA"
+      "continent": "EU"
     }
   },
   {
@@ -8106,8 +7770,7 @@
       "name": "Boundji Airport",
       "countryCode": "CG",
       "countryName": "Congo",
-      "continent": "AF",
-      "arrivalCode": "BOE"
+      "continent": "AF"
     }
   },
   {
@@ -8130,8 +7793,7 @@
       "name": "Apple Valley Airport",
       "countryCode": "US",
       "countryName": "United States",
-      "continent": "NAM",
-      "arrivalCode": "APV"
+      "continent": "NAM"
     }
   },
   {
@@ -8154,8 +7816,7 @@
       "name": "Amook Bay Seaplane Base",
       "countryCode": "US",
       "countryName": "United States",
-      "continent": "NAM",
-      "arrivalCode": "AOS"
+      "continent": "NAM"
     }
   },
   {
@@ -8178,8 +7839,7 @@
       "name": "Thornhill Air Base",
       "countryCode": "ZW",
       "countryName": "Zimbabwe",
-      "continent": "AF",
-      "arrivalCode": "GWE"
+      "continent": "AF"
     }
   },
   {
@@ -8202,8 +7862,7 @@
       "name": "Fort St John Airport",
       "countryCode": "CA",
       "countryName": "Canada",
-      "continent": "NAM",
-      "arrivalCode": "YXJ"
+      "continent": "NAM"
     }
   },
   {
@@ -8226,8 +7885,7 @@
       "name": "Nanded Airport",
       "countryCode": "IN",
       "countryName": "India",
-      "continent": "AS",
-      "arrivalCode": "NDC"
+      "continent": "AS"
     }
   },
   {
@@ -8250,8 +7908,7 @@
       "name": "Rajkot Airport",
       "countryCode": "IN",
       "countryName": "India",
-      "continent": "AS",
-      "arrivalCode": "RAJ"
+      "continent": "AS"
     }
   },
   {
@@ -8274,8 +7931,7 @@
       "name": "Playa Baracoa Airport",
       "countryCode": "CU",
       "countryName": "Cuba",
-      "continent": "NAM",
-      "arrivalCode": "UPB"
+      "continent": "NAM"
     }
   },
   {
@@ -8298,8 +7954,7 @@
       "name": "Solomon Airport",
       "countryCode": "AU",
       "countryName": "Australia",
-      "continent": "OC",
-      "arrivalCode": "SLJ"
+      "continent": "OC"
     }
   },
   {
@@ -8322,8 +7977,7 @@
       "name": "Wasu Airport",
       "countryCode": "PG",
       "countryName": "Papua New Guinea",
-      "continent": "OC",
-      "arrivalCode": "WSU"
+      "continent": "OC"
     }
   },
   {
@@ -8346,8 +8000,7 @@
       "name": "Point Salines International Airport",
       "countryCode": "GD",
       "countryName": "Grenada",
-      "continent": "NAM",
-      "arrivalCode": "GND"
+      "continent": "NAM"
     }
   },
   {
@@ -8370,8 +8023,7 @@
       "name": "Araçatuba Airport",
       "countryCode": "BR",
       "countryName": "Brazil",
-      "continent": "SAM",
-      "arrivalCode": "ARU"
+      "continent": "SAM"
     }
   },
   {
@@ -8394,8 +8046,7 @@
       "name": "Viracopos International Airport",
       "countryCode": "BR",
       "countryName": "Brazil",
-      "continent": "SAM",
-      "arrivalCode": "VCP"
+      "continent": "SAM"
     }
   },
   {
@@ -8418,8 +8069,7 @@
       "name": "Blosser Municipal Airport",
       "countryCode": "US",
       "countryName": "United States",
-      "continent": "NAM",
-      "arrivalCode": "CNK"
+      "continent": "NAM"
     }
   },
   {
@@ -8442,8 +8092,7 @@
       "name": "Boolgeeda",
       "countryCode": "AU",
       "countryName": "Australia",
-      "continent": "OC",
-      "arrivalCode": "OCM"
+      "continent": "OC"
     }
   },
   {
@@ -8466,8 +8115,7 @@
       "name": "Mendi Airport",
       "countryCode": "ET",
       "countryName": "Ethiopia",
-      "continent": "AF",
-      "arrivalCode": "NDM"
+      "continent": "AF"
     }
   },
   {
@@ -8490,8 +8138,7 @@
       "name": "Greenwood County Airport",
       "countryCode": "US",
       "countryName": "United States",
-      "continent": "NAM",
-      "arrivalCode": "GRD"
+      "continent": "NAM"
     }
   },
   {
@@ -8514,8 +8161,7 @@
       "name": "Upala Airport",
       "countryCode": "CR",
       "countryName": "Costa Rica",
-      "continent": "NAM",
-      "arrivalCode": "UPL"
+      "continent": "NAM"
     }
   },
   {
@@ -8538,8 +8184,7 @@
       "name": "Wollogorang Airport",
       "countryCode": "AU",
       "countryName": "Australia",
-      "continent": "OC",
-      "arrivalCode": "WLL"
+      "continent": "OC"
     }
   },
   {
@@ -8562,8 +8207,7 @@
       "name": "Lissadell Airport",
       "countryCode": "AU",
       "countryName": "Australia",
-      "continent": "OC",
-      "arrivalCode": "LLL"
+      "continent": "OC"
     }
   },
   {
@@ -8586,8 +8230,7 @@
       "name": "Lambarene Airport",
       "countryCode": "GA",
       "countryName": "Gabon",
-      "continent": "AF",
-      "arrivalCode": "LBQ"
+      "continent": "AF"
     }
   },
   {
@@ -8610,8 +8253,7 @@
       "name": "Northeast Alabama Regional Airport",
       "countryCode": "US",
       "countryName": "United States",
-      "continent": "NAM",
-      "arrivalCode": "GAD"
+      "continent": "NAM"
     }
   },
   {
@@ -8634,8 +8276,7 @@
       "name": "Tarko-Sale Airport",
       "countryCode": "RU",
       "countryName": "Russian Federation",
-      "continent": "AS",
-      "arrivalCode": "TQL"
+      "continent": "AS"
     }
   },
   {
@@ -8658,8 +8299,7 @@
       "name": "Miramichi Airport",
       "countryCode": "CA",
       "countryName": "Canada",
-      "continent": "NAM",
-      "arrivalCode": "YCH"
+      "continent": "NAM"
     }
   },
   {
@@ -8682,8 +8322,7 @@
       "name": "Sarzana-Luni Air Base",
       "countryCode": "IT",
       "countryName": "Italy",
-      "continent": "EU",
-      "arrivalCode": "QLP"
+      "continent": "EU"
     }
   },
   {
@@ -8706,8 +8345,7 @@
       "name": "Moranbah Airport",
       "countryCode": "AU",
       "countryName": "Australia",
-      "continent": "OC",
-      "arrivalCode": "MOV"
+      "continent": "OC"
     }
   },
   {
@@ -8730,8 +8368,7 @@
       "name": "Eastern WV Regional Airport/Shepherd Field",
       "countryCode": "US",
       "countryName": "United States",
-      "continent": "NAM",
-      "arrivalCode": "MRB"
+      "continent": "NAM"
     }
   },
   {
@@ -8754,8 +8391,7 @@
       "name": "Cururupu Airport",
       "countryCode": "BR",
       "countryName": "Brazil",
-      "continent": "SAM",
-      "arrivalCode": "CPU"
+      "continent": "SAM"
     }
   },
   {
@@ -8778,8 +8414,7 @@
       "name": "Provideniya Bay Airport",
       "countryCode": "RU",
       "countryName": "Russian Federation",
-      "continent": "EU",
-      "arrivalCode": "PVS"
+      "continent": "EU"
     }
   },
   {
@@ -8802,8 +8437,7 @@
       "name": "Nakashibetsu Airport",
       "countryCode": "JP",
       "countryName": "Japan",
-      "continent": "AS",
-      "arrivalCode": "SHB"
+      "continent": "AS"
     }
   },
   {
@@ -8826,8 +8460,7 @@
       "name": "Siglufjörður Airport",
       "countryCode": "IS",
       "countryName": "Iceland",
-      "continent": "EU",
-      "arrivalCode": "SIJ"
+      "continent": "EU"
     }
   },
   {
@@ -8850,8 +8483,7 @@
       "name": "Shanghai Hongqiao International Airport",
       "countryCode": "CN",
       "countryName": "China",
-      "continent": "AS",
-      "arrivalCode": "SHA"
+      "continent": "AS"
     }
   },
   {
@@ -8874,8 +8506,7 @@
       "name": "Gustavo Artunduaga Paredes Airport",
       "countryCode": "CO",
       "countryName": "Colombia",
-      "continent": "SAM",
-      "arrivalCode": "FLA"
+      "continent": "SAM"
     }
   },
   {
@@ -8898,8 +8529,7 @@
       "name": "Ruby Airport",
       "countryCode": "US",
       "countryName": "United States",
-      "continent": "NAM",
-      "arrivalCode": "RBY"
+      "continent": "NAM"
     }
   },
   {
@@ -8922,8 +8552,7 @@
       "name": "Dongshan Airport",
       "countryCode": "CN",
       "countryName": "China",
-      "continent": "AS",
-      "arrivalCode": "HLD"
+      "continent": "AS"
     }
   },
   {
@@ -8946,8 +8575,7 @@
       "name": "Goulburn Airport",
       "countryCode": "AU",
       "countryName": "Australia",
-      "continent": "OC",
-      "arrivalCode": "GUL"
+      "continent": "OC"
     }
   },
   {
@@ -8970,8 +8598,7 @@
       "name": "Shark Bay Airport",
       "countryCode": "AU",
       "countryName": "Australia",
-      "continent": "OC",
-      "arrivalCode": "MJK"
+      "continent": "OC"
     }
   },
   {
@@ -8994,8 +8621,7 @@
       "name": "Rimouski Airport",
       "countryCode": "CA",
       "countryName": "Canada",
-      "continent": "NAM",
-      "arrivalCode": "YXK"
+      "continent": "NAM"
     }
   },
   {
@@ -9018,8 +8644,7 @@
       "name": "Hongyuan Airport",
       "countryCode": "CN",
       "countryName": "China",
-      "continent": "AS",
-      "arrivalCode": "AHJ"
+      "continent": "AS"
     }
   },
   {
@@ -9042,8 +8667,7 @@
       "name": "Capitan Nicolas Rojas Airport",
       "countryCode": "BO",
       "countryName": "Bolivia, Plurinational State of",
-      "continent": "SAM",
-      "arrivalCode": "POI"
+      "continent": "SAM"
     }
   },
   {
@@ -9066,8 +8690,7 @@
       "name": "Viña del mar Airport",
       "countryCode": "CL",
       "countryName": "Chile",
-      "continent": "SAM",
-      "arrivalCode": "KNA"
+      "continent": "SAM"
     }
   },
   {
@@ -9090,8 +8713,7 @@
       "name": "Aksu Airport",
       "countryCode": "CN",
       "countryName": "China",
-      "continent": "AS",
-      "arrivalCode": "AKU"
+      "continent": "AS"
     }
   },
   {
@@ -9114,8 +8736,7 @@
       "name": "Cardiff International Airport",
       "countryCode": "GB",
       "countryName": "United Kingdom",
-      "continent": "EU",
-      "arrivalCode": "CWL"
+      "continent": "EU"
     }
   },
   {
@@ -9138,8 +8759,7 @@
       "name": "Valdez Pioneer Field",
       "countryCode": "US",
       "countryName": "United States",
-      "continent": "NAM",
-      "arrivalCode": "VDZ"
+      "continent": "NAM"
     }
   },
   {
@@ -9162,8 +8782,7 @@
       "name": "Ryan's Creek Aerodrome",
       "countryCode": "NZ",
       "countryName": "New Zealand",
-      "continent": "OC",
-      "arrivalCode": "SZS"
+      "continent": "OC"
     }
   },
   {
@@ -9186,8 +8805,7 @@
       "name": "Bromont (Roland Desourdy) Airport",
       "countryCode": "CA",
       "countryName": "Canada",
-      "continent": "NAM",
-      "arrivalCode": "ZBM"
+      "continent": "NAM"
     }
   },
   {
@@ -9210,8 +8828,7 @@
       "name": "North Island Naval Air Station-Halsey Field",
       "countryCode": "US",
       "countryName": "United States",
-      "continent": "NAM",
-      "arrivalCode": "NZY"
+      "continent": "NAM"
     }
   },
   {
@@ -9234,8 +8851,7 @@
       "name": "Dimapur Airport",
       "countryCode": "IN",
       "countryName": "India",
-      "continent": "AS",
-      "arrivalCode": "DMU"
+      "continent": "AS"
     }
   },
   {
@@ -9258,8 +8874,7 @@
       "name": "Mariana Grajales Airport",
       "countryCode": "CU",
       "countryName": "Cuba",
-      "continent": "NAM",
-      "arrivalCode": "GAO"
+      "continent": "NAM"
     }
   },
   {
@@ -9282,8 +8897,7 @@
       "name": "Idaho Falls Regional Airport",
       "countryCode": "US",
       "countryName": "United States",
-      "continent": "NAM",
-      "arrivalCode": "IDA"
+      "continent": "NAM"
     }
   },
   {
@@ -9306,8 +8920,7 @@
       "name": "Vista Field",
       "countryCode": "US",
       "countryName": "United States",
-      "continent": "NAM",
-      "arrivalCode": "VSK"
+      "continent": "NAM"
     }
   },
   {
@@ -9330,8 +8943,7 @@
       "name": "Tenente Lund Pressoto Airport",
       "countryCode": "BR",
       "countryName": "Brazil",
-      "continent": "SAM",
-      "arrivalCode": "FRC"
+      "continent": "SAM"
     }
   },
   {
@@ -9354,8 +8966,7 @@
       "name": "Federico Garcia Lorca Airport",
       "countryCode": "ES",
       "countryName": "Spain",
-      "continent": "EU",
-      "arrivalCode": "GRX"
+      "continent": "EU"
     }
   },
   {
@@ -9378,8 +8989,7 @@
       "name": "Capitan FAP Carlos Martinez De Pinillos International Airport",
       "countryCode": "PE",
       "countryName": "Peru",
-      "continent": "SAM",
-      "arrivalCode": "TRU"
+      "continent": "SAM"
     }
   },
   {
@@ -9402,8 +9012,7 @@
       "name": "Deer Lake Airport",
       "countryCode": "CA",
       "countryName": "Canada",
-      "continent": "NAM",
-      "arrivalCode": "YDF"
+      "continent": "NAM"
     }
   },
   {
@@ -9426,8 +9035,7 @@
       "name": "Cruz Bay Seaplane Base",
       "countryCode": "VI",
       "countryName": "Virgin Islands, U.S.",
-      "continent": "NAM",
-      "arrivalCode": "SJF"
+      "continent": "NAM"
     }
   },
   {
@@ -9450,8 +9058,7 @@
       "name": "Williamsport Regional Airport",
       "countryCode": "US",
       "countryName": "United States",
-      "continent": "NAM",
-      "arrivalCode": "IPT"
+      "continent": "NAM"
     }
   },
   {
@@ -9474,8 +9081,7 @@
       "name": "Wollongong Airport",
       "countryCode": "AU",
       "countryName": "Australia",
-      "continent": "OC",
-      "arrivalCode": "WOL"
+      "continent": "OC"
     }
   },
   {
@@ -9498,8 +9104,7 @@
       "name": "Paranaguá Airport",
       "countryCode": "BR",
       "countryName": "Brazil",
-      "continent": "SAM",
-      "arrivalCode": "PNG"
+      "continent": "SAM"
     }
   },
   {
@@ -9522,8 +9127,7 @@
       "name": "Mukah Airport",
       "countryCode": "MY",
       "countryName": "Malaysia",
-      "continent": "AS",
-      "arrivalCode": "MKM"
+      "continent": "AS"
     }
   },
   {
@@ -9546,8 +9150,7 @@
       "name": "Doris Lake",
       "countryCode": "CA",
       "countryName": "Canada",
-      "continent": "NAM",
-      "arrivalCode": "JOJ"
+      "continent": "NAM"
     }
   },
   {
@@ -9570,8 +9173,7 @@
       "name": "Northeast Florida Regional Airport",
       "countryCode": "US",
       "countryName": "United States",
-      "continent": "NAM",
-      "arrivalCode": "UST"
+      "continent": "NAM"
     }
   },
   {
@@ -9594,8 +9196,7 @@
       "name": "Lae Island Airport",
       "countryCode": "MH",
       "countryName": "Marshall Islands",
-      "continent": "OC",
-      "arrivalCode": "LML"
+      "continent": "OC"
     }
   },
   {
@@ -9618,8 +9219,7 @@
       "name": "Norman Manley International Airport",
       "countryCode": "JM",
       "countryName": "Jamaica",
-      "continent": "NAM",
-      "arrivalCode": "KIN"
+      "continent": "NAM"
     }
   },
   {
@@ -9642,8 +9242,7 @@
       "name": "28 de Noviembre Airport",
       "countryCode": "AR",
       "countryName": "Argentina",
-      "continent": "SAM",
-      "arrivalCode": "RYO"
+      "continent": "SAM"
     }
   },
   {
@@ -9666,8 +9265,7 @@
       "name": "Duncan Town Airport",
       "countryCode": "BS",
       "countryName": "Bahamas",
-      "continent": "NAM",
-      "arrivalCode": "DCT"
+      "continent": "NAM"
     }
   },
   {
@@ -9690,8 +9288,7 @@
       "name": "Gerrard Smith International Airport",
       "countryCode": "KY",
       "countryName": "Cayman Islands",
-      "continent": "NAM",
-      "arrivalCode": "CYB"
+      "continent": "NAM"
     }
   },
   {
@@ -9714,8 +9311,7 @@
       "name": "Moises R. Espinosa Airport",
       "countryCode": "PH",
       "countryName": "Philippines",
-      "continent": "AS",
-      "arrivalCode": "MBT"
+      "continent": "AS"
     }
   },
   {
@@ -9738,8 +9334,7 @@
       "name": "Yeniseysk Airport",
       "countryCode": "RU",
       "countryName": "Russian Federation",
-      "continent": "AS",
-      "arrivalCode": "EIE"
+      "continent": "AS"
     }
   },
   {
@@ -9762,8 +9357,7 @@
       "name": "Arad International Airport",
       "countryCode": "RO",
       "countryName": "Romania",
-      "continent": "EU",
-      "arrivalCode": "ARW"
+      "continent": "EU"
     }
   },
   {
@@ -9786,8 +9380,7 @@
       "name": "Chandalar Lake Airport",
       "countryCode": "US",
       "countryName": "United States",
-      "continent": "NAM",
-      "arrivalCode": "WCR"
+      "continent": "NAM"
     }
   },
   {
@@ -9810,8 +9403,7 @@
       "name": "Bisbee Douglas International Airport",
       "countryCode": "US",
       "countryName": "United States",
-      "continent": "NAM",
-      "arrivalCode": "DUG"
+      "continent": "NAM"
     }
   },
   {
@@ -9834,8 +9426,7 @@
       "name": "Ontario International Airport",
       "countryCode": "US",
       "countryName": "United States",
-      "continent": "NAM",
-      "arrivalCode": "ONT"
+      "continent": "NAM"
     }
   },
   {
@@ -9858,8 +9449,7 @@
       "name": "Ralph C Weiser Field",
       "countryCode": "US",
       "countryName": "United States",
-      "continent": "NAM",
-      "arrivalCode": "AGO"
+      "continent": "NAM"
     }
   },
   {
@@ -9882,8 +9472,7 @@
       "name": "Yinchuan Hedong International Airport",
       "countryCode": "CN",
       "countryName": "China",
-      "continent": "AS",
-      "arrivalCode": "INC"
+      "continent": "AS"
     }
   },
   {
@@ -9906,8 +9495,7 @@
       "name": "Central Illinois Regional Airport at Bloomington-Normal",
       "countryCode": "US",
       "countryName": "United States",
-      "continent": "NAM",
-      "arrivalCode": "BMI"
+      "continent": "NAM"
     }
   },
   {
@@ -9930,8 +9518,7 @@
       "name": "Totness Airport",
       "countryCode": "SR",
       "countryName": "Suriname",
-      "continent": "SAM",
-      "arrivalCode": "TOT"
+      "continent": "SAM"
     }
   },
   {
@@ -9954,8 +9541,7 @@
       "name": "Muskrat Dam Airport",
       "countryCode": "CA",
       "countryName": "Canada",
-      "continent": "NAM",
-      "arrivalCode": "MSA"
+      "continent": "NAM"
     }
   },
   {
@@ -9978,8 +9564,7 @@
       "name": "Wausau Downtown Airport",
       "countryCode": "US",
       "countryName": "United States",
-      "continent": "NAM",
-      "arrivalCode": "AUW"
+      "continent": "NAM"
     }
   },
   {
@@ -10002,8 +9587,7 @@
       "name": "Saumlaki/Olilit Airport",
       "countryCode": "ID",
       "countryName": "Indonesia",
-      "continent": "AS",
-      "arrivalCode": "SXK"
+      "continent": "AS"
     }
   },
   {
@@ -10026,8 +9610,7 @@
       "name": "Twentynine Palms Airport",
       "countryCode": "US",
       "countryName": "United States",
-      "continent": "NAM",
-      "arrivalCode": "TNP"
+      "continent": "NAM"
     }
   },
   {
@@ -10050,8 +9633,7 @@
       "name": "Kiwayu Airport",
       "countryCode": "KE",
       "countryName": "Kenya",
-      "continent": "AF",
-      "arrivalCode": "KWY"
+      "continent": "AF"
     }
   },
   {
@@ -10074,8 +9656,7 @@
       "name": "Nuku Airport",
       "countryCode": "PG",
       "countryName": "Papua New Guinea",
-      "continent": "OC",
-      "arrivalCode": "UKU"
+      "continent": "OC"
     }
   },
   {
@@ -10098,8 +9679,7 @@
       "name": "Vila Bela da Santíssima Trindade Airport",
       "countryCode": "BR",
       "countryName": "Brazil",
-      "continent": "SAM",
-      "arrivalCode": "MTG"
+      "continent": "SAM"
     }
   },
   {
@@ -10122,8 +9702,7 @@
       "name": "Palacios Municipal Airport",
       "countryCode": "US",
       "countryName": "United States",
-      "continent": "NAM",
-      "arrivalCode": "PSX"
+      "continent": "NAM"
     }
   },
   {
@@ -10146,8 +9725,7 @@
       "name": "Kaili Airport",
       "countryCode": "CN",
       "countryName": "China",
-      "continent": "AS",
-      "arrivalCode": "KJH"
+      "continent": "AS"
     }
   },
   {
@@ -10170,8 +9748,7 @@
       "name": "Playón Chico Airport",
       "countryCode": "PA",
       "countryName": "Panama",
-      "continent": "NAM",
-      "arrivalCode": "PYC"
+      "continent": "NAM"
     }
   },
   {
@@ -10194,8 +9771,7 @@
       "name": "Helmuth Baungarten Airport",
       "countryCode": "BR",
       "countryName": "Brazil",
-      "continent": "SAM",
-      "arrivalCode": "LOI"
+      "continent": "SAM"
     }
   },
   {
@@ -10218,8 +9794,7 @@
       "name": "Sesheke Airport",
       "countryCode": "ZM",
       "countryName": "Zambia",
-      "continent": "AF",
-      "arrivalCode": "SJQ"
+      "continent": "AF"
     }
   },
   {
@@ -10242,8 +9817,7 @@
       "name": "Delissaville Airport",
       "countryCode": "AU",
       "countryName": "Australia",
-      "continent": "OC",
-      "arrivalCode": "DLV"
+      "continent": "OC"
     }
   },
   {
@@ -10266,8 +9840,7 @@
       "name": "Tocumwal Airport",
       "countryCode": "AU",
       "countryName": "Australia",
-      "continent": "OC",
-      "arrivalCode": "TCW"
+      "continent": "OC"
     }
   },
   {
@@ -10290,8 +9863,7 @@
       "name": "Rochester Airport",
       "countryCode": "GB",
       "countryName": "United Kingdom",
-      "continent": "EU",
-      "arrivalCode": "RCS"
+      "continent": "EU"
     }
   },
   {
@@ -10314,8 +9886,7 @@
       "name": "Uru Harbour Airport",
       "countryCode": "SB",
       "countryName": "Solomon Islands",
-      "continent": "OC",
-      "arrivalCode": "ATD"
+      "continent": "OC"
     }
   },
   {
@@ -10338,8 +9909,7 @@
       "name": "Luis Munoz Marin International Airport",
       "countryCode": "PR",
       "countryName": "Puerto Rico",
-      "continent": "NAM",
-      "arrivalCode": "SJU"
+      "continent": "NAM"
     }
   },
   {
@@ -10362,8 +9932,7 @@
       "name": "Sua Pan Airport",
       "countryCode": "BW",
       "countryName": "Botswana",
-      "continent": "AF",
-      "arrivalCode": "SXN"
+      "continent": "AF"
     }
   },
   {
@@ -10386,8 +9955,7 @@
       "name": "Herrera Airport",
       "countryCode": "DO",
       "countryName": "Dominican Republic",
-      "continent": "NAM",
-      "arrivalCode": "HEX"
+      "continent": "NAM"
     }
   },
   {
@@ -10410,8 +9978,7 @@
       "name": "Hihifo Airport",
       "countryCode": "WF",
       "countryName": "Wallis and Futuna",
-      "continent": "OC",
-      "arrivalCode": "WLS"
+      "continent": "OC"
     }
   },
   {
@@ -10434,8 +10001,7 @@
       "name": "Carurú Airport",
       "countryCode": "CO",
       "countryName": "Colombia",
-      "continent": "SAM",
-      "arrivalCode": "CUO"
+      "continent": "SAM"
     }
   },
   {
@@ -10458,8 +10024,7 @@
       "name": "Great Bear Lake Airport",
       "countryCode": "CA",
       "countryName": "Canada",
-      "continent": "NAM",
-      "arrivalCode": "DAS"
+      "continent": "NAM"
     }
   },
   {
@@ -10482,8 +10047,7 @@
       "name": "Jardines Del Rey Airport",
       "countryCode": "CU",
       "countryName": "Cuba",
-      "continent": "NAM",
-      "arrivalCode": "CCC"
+      "continent": "NAM"
     }
   },
   {
@@ -10506,8 +10070,7 @@
       "name": "Enfidha - Hammamet International Airport",
       "countryCode": "TN",
       "countryName": "Tunisia",
-      "continent": "AF",
-      "arrivalCode": "NBE"
+      "continent": "AF"
     }
   },
   {
@@ -10530,8 +10093,7 @@
       "name": "Menara Airport",
       "countryCode": "MA",
       "countryName": "Morocco",
-      "continent": "AF",
-      "arrivalCode": "RAK"
+      "continent": "AF"
     }
   },
   {
@@ -10554,8 +10116,7 @@
       "name": "Nambucca Heads Airport",
       "countryCode": "AU",
       "countryName": "Australia",
-      "continent": "OC",
-      "arrivalCode": "NBH"
+      "continent": "OC"
     }
   },
   {
@@ -10578,8 +10139,7 @@
       "name": "Wiseman Airport",
       "countryCode": "US",
       "countryName": "United States",
-      "continent": "NAM",
-      "arrivalCode": "WSM"
+      "continent": "NAM"
     }
   },
   {
@@ -10602,8 +10162,7 @@
       "name": "Prince Mangosuthu Buthelezi Airport",
       "countryCode": "ZA",
       "countryName": "South Africa",
-      "continent": "AF",
-      "arrivalCode": "ULD"
+      "continent": "AF"
     }
   },
   {
@@ -10626,8 +10185,7 @@
       "name": "Wichita Eisenhower National Airport",
       "countryCode": "US",
       "countryName": "United States",
-      "continent": "NAM",
-      "arrivalCode": "ICT"
+      "continent": "NAM"
     }
   },
   {
@@ -10650,8 +10208,7 @@
       "name": "La Tuque Airport",
       "countryCode": "CA",
       "countryName": "Canada",
-      "continent": "NAM",
-      "arrivalCode": "YLQ"
+      "continent": "NAM"
     }
   },
   {
@@ -10674,8 +10231,7 @@
       "name": "Yibin Caiba Airport",
       "countryCode": "CN",
       "countryName": "China",
-      "continent": "AS",
-      "arrivalCode": "YBP"
+      "continent": "AS"
     }
   },
   {
@@ -10698,8 +10254,7 @@
       "name": "Coban Airport",
       "countryCode": "GT",
       "countryName": "Guatemala",
-      "continent": "NAM",
-      "arrivalCode": "CBV"
+      "continent": "NAM"
     }
   },
   {
@@ -10722,8 +10277,7 @@
       "name": "Noonkanbah Airport",
       "countryCode": "AU",
       "countryName": "Australia",
-      "continent": "OC",
-      "arrivalCode": "NKB"
+      "continent": "OC"
     }
   },
   {
@@ -10746,8 +10300,7 @@
       "name": "Zhob Airport",
       "countryCode": "PK",
       "countryName": "Pakistan",
-      "continent": "AS",
-      "arrivalCode": "PZH"
+      "continent": "AS"
     }
   },
   {
@@ -10770,8 +10323,7 @@
       "name": "Tumolbil Airport",
       "countryCode": "PG",
       "countryName": "Papua New Guinea",
-      "continent": "OC",
-      "arrivalCode": "TLP"
+      "continent": "OC"
     }
   },
   {
@@ -10794,8 +10346,7 @@
       "name": "Konya Airport",
       "countryCode": "TR",
       "countryName": "Turkey",
-      "continent": "AS",
-      "arrivalCode": "KYA"
+      "continent": "AS"
     }
   },
   {
@@ -10818,8 +10369,7 @@
       "name": "Sármellék International Airport",
       "countryCode": "HU",
       "countryName": "Hungary",
-      "continent": "EU",
-      "arrivalCode": "SOB"
+      "continent": "EU"
     }
   },
   {
@@ -10842,8 +10392,7 @@
       "name": "St Jean Airport",
       "countryCode": "CA",
       "countryName": "Canada",
-      "continent": "NAM",
-      "arrivalCode": "YJN"
+      "continent": "NAM"
     }
   },
   {
@@ -10866,8 +10415,7 @@
       "name": "La Ronge Airport",
       "countryCode": "CA",
       "countryName": "Canada",
-      "continent": "NAM",
-      "arrivalCode": "YVC"
+      "continent": "NAM"
     }
   },
   {
@@ -10890,8 +10438,7 @@
       "name": "Wollongong Airport",
       "countryCode": "AU",
       "countryName": "Australia",
-      "continent": "OC",
-      "arrivalCode": "WOL"
+      "continent": "OC"
     }
   },
   {
@@ -10914,8 +10461,7 @@
       "name": "St Louis Regional Airport",
       "countryCode": "US",
       "countryName": "United States",
-      "continent": "NAM",
-      "arrivalCode": "ALN"
+      "continent": "NAM"
     }
   },
   {
@@ -10938,8 +10484,7 @@
       "name": "Haivaro Airport",
       "countryCode": "PG",
       "countryName": "Papua New Guinea",
-      "continent": "OC",
-      "arrivalCode": "HIT"
+      "continent": "OC"
     }
   },
   {
@@ -10962,8 +10507,7 @@
       "name": "Mélio Viana Airport",
       "countryCode": "BR",
       "countryName": "Brazil",
-      "continent": "SAM",
-      "arrivalCode": "QID"
+      "continent": "SAM"
     }
   },
   {
@@ -10986,8 +10530,7 @@
       "name": "San Nicolas De Bari Airport",
       "countryCode": "CU",
       "countryName": "Cuba",
-      "continent": "NAM",
-      "arrivalCode": "QSN"
+      "continent": "NAM"
     }
   },
   {
@@ -11010,8 +10553,7 @@
       "name": "Newark Liberty International Airport",
       "countryCode": "US",
       "countryName": "United States",
-      "continent": "NAM",
-      "arrivalCode": "EWR"
+      "continent": "NAM"
     }
   },
   {
@@ -11034,8 +10576,7 @@
       "name": "Waterbury Oxford Airport",
       "countryCode": "US",
       "countryName": "United States",
-      "continent": "NAM",
-      "arrivalCode": "OXC"
+      "continent": "NAM"
     }
   },
   {
@@ -11058,8 +10599,7 @@
       "name": "RAF Bentwaters",
       "countryCode": "GB",
       "countryName": "United Kingdom",
-      "continent": "EU",
-      "arrivalCode": "BWY"
+      "continent": "EU"
     }
   },
   {
@@ -11082,8 +10622,7 @@
       "name": "Hassi R'Mel Airport",
       "countryCode": "DZ",
       "countryName": "Algeria",
-      "continent": "AF",
-      "arrivalCode": "HRM"
+      "continent": "AF"
     }
   },
   {
@@ -11106,8 +10645,7 @@
       "name": "Sado Airport",
       "countryCode": "JP",
       "countryName": "Japan",
-      "continent": "AS",
-      "arrivalCode": "SDS"
+      "continent": "AS"
     }
   },
   {
@@ -11130,8 +10668,7 @@
       "name": "Tissa Tank Waterdrome",
       "countryCode": "LK",
       "countryName": "Sri Lanka",
-      "continent": "AS",
-      "arrivalCode": "TTW"
+      "continent": "AS"
     }
   },
   {
@@ -11154,8 +10691,7 @@
       "name": "Anthony Municipal Airport",
       "countryCode": "US",
       "countryName": "United States",
-      "continent": "NAM",
-      "arrivalCode": "ANY"
+      "continent": "NAM"
     }
   },
   {
@@ -11178,8 +10714,7 @@
       "name": "Bellona/Anua Airport",
       "countryCode": "SB",
       "countryName": "Solomon Islands",
-      "continent": "OC",
-      "arrivalCode": "BNY"
+      "continent": "OC"
     }
   },
   {
@@ -11202,8 +10737,7 @@
       "name": "Espinosa Airport",
       "countryCode": "BR",
       "countryName": "Brazil",
-      "continent": "SAM",
-      "arrivalCode": "ESI"
+      "continent": "SAM"
     }
   },
   {
@@ -11226,8 +10760,7 @@
       "name": "Tonghua Sanyuanpu Airport",
       "countryCode": "CN",
       "countryName": "China",
-      "continent": "AS",
-      "arrivalCode": "TNH"
+      "continent": "AS"
     }
   },
   {
@@ -11250,8 +10783,7 @@
       "name": "Shute Harbour Airport",
       "countryCode": "AU",
       "countryName": "Australia",
-      "continent": "OC",
-      "arrivalCode": "JHQ"
+      "continent": "OC"
     }
   },
   {
@@ -11274,8 +10806,7 @@
       "name": "Aleknagik / New Airport",
       "countryCode": "US",
       "countryName": "United States",
-      "continent": "NAM",
-      "arrivalCode": "WKK"
+      "continent": "NAM"
     }
   },
   {
@@ -11298,8 +10829,7 @@
       "name": "Capurganá Airport",
       "countryCode": "CO",
       "countryName": "Colombia",
-      "continent": "SAM",
-      "arrivalCode": "CPB"
+      "continent": "SAM"
     }
   },
   {
@@ -11322,8 +10852,7 @@
       "name": "Charlotte Amalie Harbor Seaplane Base",
       "countryCode": "VI",
       "countryName": "Virgin Islands, U.S.",
-      "continent": "NAM",
-      "arrivalCode": "SPB"
+      "continent": "NAM"
     }
   },
   {
@@ -11346,8 +10875,7 @@
       "name": "Mwadui Airport",
       "countryCode": "TZ",
       "countryName": "Tanzania, United Republic of",
-      "continent": "AF",
-      "arrivalCode": "MWN"
+      "continent": "AF"
     }
   },
   {
@@ -11370,8 +10898,7 @@
       "name": "Cruzeiro do Sul Airport",
       "countryCode": "BR",
       "countryName": "Brazil",
-      "continent": "SAM",
-      "arrivalCode": "CZS"
+      "continent": "SAM"
     }
   },
   {
@@ -11394,8 +10921,7 @@
       "name": "Kirovsk-Apatity Airport",
       "countryCode": "RU",
       "countryName": "Russian Federation",
-      "continent": "EU",
-      "arrivalCode": "KVK"
+      "continent": "EU"
     }
   },
   {
@@ -11418,8 +10944,7 @@
       "name": "Cheikh Larbi Tébessi Airport",
       "countryCode": "DZ",
       "countryName": "Algeria",
-      "continent": "AF",
-      "arrivalCode": "TEE"
+      "continent": "AF"
     }
   },
   {
@@ -11442,8 +10967,7 @@
       "name": "Ljubljana Jože Pučnik Airport",
       "countryCode": "SI",
       "countryName": "Slovenia",
-      "continent": "EU",
-      "arrivalCode": "LJU"
+      "continent": "EU"
     }
   },
   {
@@ -11466,8 +10990,7 @@
       "name": "Land's End Airport",
       "countryCode": "GB",
       "countryName": "United Kingdom",
-      "continent": "EU",
-      "arrivalCode": "LEQ"
+      "continent": "EU"
     }
   },
   {
@@ -11490,8 +11013,7 @@
       "name": "Ivanof Bay Seaplane Base",
       "countryCode": "US",
       "countryName": "United States",
-      "continent": "NAM",
-      "arrivalCode": "KIB"
+      "continent": "NAM"
     }
   },
   {
@@ -11514,8 +11036,7 @@
       "name": "Guriaso (Keraso) Airport",
       "countryCode": "PG",
       "countryName": "Papua New Guinea",
-      "continent": "OC",
-      "arrivalCode": "GUE"
+      "continent": "OC"
     }
   },
   {
@@ -11538,8 +11059,7 @@
       "name": "St. Anthony Airport",
       "countryCode": "CA",
       "countryName": "Canada",
-      "continent": "NAM",
-      "arrivalCode": "YAY"
+      "continent": "NAM"
     }
   },
   {
@@ -11562,8 +11082,7 @@
       "name": "Patuxent River Naval Air Station (Trapnell Field)",
       "countryCode": "US",
       "countryName": "United States",
-      "continent": "NAM",
-      "arrivalCode": "NHK"
+      "continent": "NAM"
     }
   },
   {
@@ -11586,8 +11105,7 @@
       "name": "Maitland Airport",
       "countryCode": "AU",
       "countryName": "Australia",
-      "continent": "OC",
-      "arrivalCode": "MTL"
+      "continent": "OC"
     }
   },
   {
@@ -11610,8 +11128,7 @@
       "name": "Manitouwadge Airport",
       "countryCode": "CA",
       "countryName": "Canada",
-      "continent": "NAM",
-      "arrivalCode": "YMG"
+      "continent": "NAM"
     }
   },
   {
@@ -11634,8 +11151,7 @@
       "name": "Adıyaman Airport",
       "countryCode": "TR",
       "countryName": "Turkey",
-      "continent": "AS",
-      "arrivalCode": "ADF"
+      "continent": "AS"
     }
   },
   {
@@ -11658,8 +11174,7 @@
       "name": "Anderson Regional Airport",
       "countryCode": "US",
       "countryName": "United States",
-      "continent": "NAM",
-      "arrivalCode": "AND"
+      "continent": "NAM"
     }
   },
   {
@@ -11682,8 +11197,7 @@
       "name": "Orán Airport",
       "countryCode": "AR",
       "countryName": "Argentina",
-      "continent": "SAM",
-      "arrivalCode": "ORA"
+      "continent": "SAM"
     }
   },
   {
@@ -11706,8 +11220,7 @@
       "name": "Cortland County Chase Field",
       "countryCode": "US",
       "countryName": "United States",
-      "continent": "NAM",
-      "arrivalCode": "CTX"
+      "continent": "NAM"
     }
   },
   {
@@ -11730,8 +11243,7 @@
       "name": "Jam Airport",
       "countryCode": "IR",
       "countryName": "Iran, Islamic Republic of",
-      "continent": "AS",
-      "arrivalCode": "KNR"
+      "continent": "AS"
     }
   },
   {
@@ -11754,8 +11266,7 @@
       "name": "Satwag Airport",
       "countryCode": "PG",
       "countryName": "Papua New Guinea",
-      "continent": "OC",
-      "arrivalCode": "SWG"
+      "continent": "OC"
     }
   },
   {
@@ -11778,8 +11289,7 @@
       "name": "Burg Feuerstein Airport",
       "countryCode": "DE",
       "countryName": "Germany",
-      "continent": "EU",
-      "arrivalCode": "URD"
+      "continent": "EU"
     }
   },
   {
@@ -11802,8 +11312,7 @@
       "name": "Sandstone Airport",
       "countryCode": "AU",
       "countryName": "Australia",
-      "continent": "OC",
-      "arrivalCode": "NDS"
+      "continent": "OC"
     }
   },
   {
@@ -11826,8 +11335,7 @@
       "name": "Merowe New Airport",
       "countryCode": "SD",
       "countryName": "Sudan",
-      "continent": "AF",
-      "arrivalCode": "MWE"
+      "continent": "AF"
     }
   },
   {
@@ -11850,8 +11358,7 @@
       "name": "Dalanzadgad Airport",
       "countryCode": "MN",
       "countryName": "Mongolia",
-      "continent": "AS",
-      "arrivalCode": "DLZ"
+      "continent": "AS"
     }
   },
   {
@@ -11874,8 +11381,7 @@
       "name": "Zhoushuizi Airport",
       "countryCode": "CN",
       "countryName": "China",
-      "continent": "AS",
-      "arrivalCode": "DLC"
+      "continent": "AS"
     }
   },
   {
@@ -11898,8 +11404,7 @@
       "name": "Zhytomyr Airport",
       "countryCode": "UA",
       "countryName": "Ukraine",
-      "continent": "EU",
-      "arrivalCode": "ZTR"
+      "continent": "EU"
     }
   },
   {
@@ -11922,8 +11427,7 @@
       "name": "Santa Maria Airport",
       "countryCode": "BR",
       "countryName": "Brazil",
-      "continent": "SAM",
-      "arrivalCode": "AJU"
+      "continent": "SAM"
     }
   },
   {
@@ -11946,8 +11450,7 @@
       "name": "Likiep Airport",
       "countryCode": "MH",
       "countryName": "Marshall Islands",
-      "continent": "OC",
-      "arrivalCode": "LIK"
+      "continent": "OC"
     }
   },
   {
@@ -11970,8 +11473,7 @@
       "name": "Khatgal Airport",
       "countryCode": "MN",
       "countryName": "Mongolia",
-      "continent": "AS",
-      "arrivalCode": "HTM"
+      "continent": "AS"
     }
   },
   {
@@ -11993,8 +11495,7 @@
       "name": "Athens International Airport",
       "countryCode": "GR",
       "countryName": "Greece",
-      "continent": "Europe",
-      "arrivalCode": "ATH"
+      "continent": "Europe"
     }
   }
 ]

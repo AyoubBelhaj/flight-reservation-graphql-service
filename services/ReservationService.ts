@@ -11,27 +11,27 @@ export class ReservationService {
         const data = JSON.parse(fs.readFileSync(filePath, "utf-8"));
         this.reservations = data.map((entry: any) => {
             const passenger = new Passenger(
-                entry["Passenger ID"],
-                entry["First Name"],
-                entry["Last Name"],
-                entry["Gender"],
-                entry["Age"],
-                entry["Nationality"]
+                entry['passenger'].id,
+                entry['passenger'].firstName,
+                entry['passenger'].lastName,
+                entry['passenger'].gender,
+                entry['passenger'].age,
+                entry['passenger'].nationality
             );
 
             const airport = new Airport(
-                entry["Airport Name"],
-                entry["Airport Country Code"],
-                entry["Country Name"],
-                entry["Airport Continent"],
-                entry["Arrival Airport"]
+                entry['airport'].name,
+                entry['airport'].countryCode,
+                entry['airport'].countryName,
+                entry['airport'].continent,
+                entry['airport'].airportCode
             );
 
             const flight = new Flight(
-                entry["Departure Date"],
-                entry["Arrival Airport"],
-                entry["Pilot Name"],
-                entry["Flight Status"]
+                entry['flight'].departureDate,
+                entry['flight'].arrivalAirport,
+                entry['flight'].pilotName,
+                entry['flight'].status
             );
 
             return new Reservation(entry["id"], passenger, flight, airport);
@@ -39,24 +39,66 @@ export class ReservationService {
     }
 
     createReservation(data: any) {
-        const newReservation = {
-            id: this.reservations.length + 1,
-            ...data,
-        };
+        const newPassengerId = this.getAllPassengers().length + 1;
+        const newPassenger = new Passenger(
+            newPassengerId,
+            data.passenger.firstName,
+            data.passenger.lastName,
+            data.passenger.gender,
+            data.passenger.age,
+            data.passenger.nationality
+        );
+
+        const newAirport = new Airport(
+            data.airport.name,
+            data.airport.countryCode,
+            data.airport.countryName,
+            data.airport.continent,
+            data.airport.arrivalCode
+        );
+
+        const newFlight = new Flight(
+            data.flight.departureDate,
+            data.flight.arrivalAirport,
+            data.flight.pilotName,
+            data.flight.flightStatus
+        );
+
+        const newReservation = new Reservation(
+            this.reservations.length + 1,
+            newPassenger,
+            newFlight,
+            newAirport
+        );
+
         this.reservations.push(newReservation);
         this._saveToFile();
         return newReservation;
     }
 
-    updateReservation(id: number, data: any) {
+    updateReservation(id:any, data:any) {
         const reservationIndex = this.reservations.findIndex((r) => r.id === id);
         if (reservationIndex === -1) {
             throw new Error("Reservation not found");
         }
+    
+        // Deep merge nested objects
         const updatedReservation = {
             ...this.reservations[reservationIndex],
-            ...data,
+            passenger: {
+                ...this.reservations[reservationIndex].passenger,
+                ...data.passenger,
+            },
+            flight: {
+                ...this.reservations[reservationIndex].flight,
+                ...data.flight,
+            },
+            airport: {
+                ...this.reservations[reservationIndex].airport,
+                ...data.airport,
+            },
         };
+    
         this.reservations[reservationIndex] = updatedReservation;
         this._saveToFile();
         return updatedReservation;
